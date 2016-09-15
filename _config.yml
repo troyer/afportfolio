@@ -1,0 +1,33 @@
+---
+title: Alizée Freudenthal Portfolio
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    Publish: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+Description: is a french graphic designer based in New York City currently working
+  at Mother Design.
+Project Order:
+- project-name-3
+- project-name-1
+- project-name-2
