@@ -2,6 +2,8 @@
 author: Alizée Freudenthal
 title: Alizée Freudenthal Portfolio
 timezone: UTC
+sass:
+    sass_dir: assets/css
 collections:
   posts:
     title: Projects
