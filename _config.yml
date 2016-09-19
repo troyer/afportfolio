@@ -15,16 +15,16 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    description: 
-    id: 
+    cover image:
+    description:
+    id:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
-Description: is a french graphic designer based in New York City currently working
-  at Mother Design.
+Description: is a french graphic designer based in New York City currently working at Mother Design.
 Project Order:
 - project-id-3
 - project-id-1
