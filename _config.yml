@@ -18,7 +18,7 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    cover image:
+    cover-image:
     description:
     id:
 - scope:

@@ -3,5 +3,6 @@ layout: default
 ---
 
 {% for post in site.posts %}
+  <img src="{{ post.cover-image }}" />
   <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
