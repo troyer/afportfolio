@@ -5,6 +5,7 @@ tags:
 - Identity
 - Hotel
 - Print
+cover-image: "/uploads/project5.jpg"
 ---
 
 Image 1
