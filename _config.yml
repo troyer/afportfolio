@@ -17,7 +17,7 @@ defaults:
     permalink: "/:title/"
     cover-image:
     description:
-    id:
+    order-id:
 - scope:
     path: ''
     type: pages
@@ -31,6 +31,5 @@ description: is a french graphic designer based in New York City currently worki
   at Mother Design.
 keywords:
 project-order:
-- project-id-3
-- project-id-1
 - project-id-2
+- project-id-1

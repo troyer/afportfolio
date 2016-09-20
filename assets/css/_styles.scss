@@ -1,6 +1,14 @@
-.bg-black { background: #000; }
+*{
+  margin:0;
+  padding:0;
+}
 
-.serif { font-family: serif; }
+.bg-black { background: #000; }
+.bg-white { background: #fff; }
+
+.white { color: #fff; }
+.black { color: #000; }
+
 .tc  { text-align: center; }
 
 .center {
@@ -8,4 +16,56 @@
   margin-left: auto;
 }
 
-.mw-30 { max-width: 30rem; }
+.mw-22 { max-width: 22rem; }
+.mw-40 { max-width: 40rem; }
+
+.w-100 { width: 100%; }
+
+.absolute { position: absolute; }
+.relative { position: relative; }
+
+.t-0 { top: 0; }
+.r-0 { right: 0; }
+.b-0 { bottom: 0; }
+.l-0 { left: 0; }
+
+.block { display: block; }
+
+.dim { opacity: 1; -webkit-transition: opacity .15s ease-in; transition: opacity .15s ease-in; }
+.dim:hover, .dim:focus { opacity: .7; -webkit-transition: opacity .15s ease-in; transition: opacity .15s ease-in; }
+.dim:active { opacity: .8; -webkit-transition: opacity .15s ease-out; transition: opacity .15s ease-out; }
+
+.overlay {
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  transition: opacity .5s;
+}
+.overlay:hover {
+  opacity: 1;
+  transition: opacity .5s;
+}
+
+.link {
+  text-decoration: none;
+  transition: color .15s ease-in;
+}
+
+.link:link,
+.link:visited {
+  transition: color .15s ease-in;
+}
+.link:hover   {
+  transition: color .15s ease-in;
+}
+.link:active  {
+  transition: color .15s ease-in;
+}
+.link:focus   {
+  transition: color .15s ease-in;
+  outline: 1px dotted currentColor;
+}
