@@ -7,11 +7,11 @@ tags:
 - Print
 cover-image: "/uploads/project5.jpg"
 description: |-
-  Achieved at Watson & Co.
+  Achieved at **Watson & Co.**
   Photography: Lorem Ipsum
   Link to website: lorem
 order-id: project-id-1
-layout: page
+layout: default
 ---
 
 ![project5.jpg](/uploads/project5.jpg)
