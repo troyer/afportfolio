@@ -5,6 +5,10 @@ html {
   color: white;
 }
 
+body {
+  line-height: 1.1;
+}
+
 .h1 { font-size: 2rem; }
 .h2 { font-size: 1.5rem; }
 .h3 { font-size: 1rem; }
@@ -16,5 +20,4 @@ html {
 
 .fw-700 { font-weight: 700; }
 
-.underline {
-  border-bottom: 1px solid #fff; }
+.underline { border-bottom: 1px solid #fff; }

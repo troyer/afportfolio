@@ -11,7 +11,7 @@ description: |-
   Photography: Lorem Ipsum
   Link to website: lorem
 order-id: project-id-2
-layout: default
+layout: page
 ---
 
 ![project1.jpg](/uploads/project1.jpg)
