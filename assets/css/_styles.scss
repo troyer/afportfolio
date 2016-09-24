@@ -80,6 +80,11 @@
 .left { float: left; }
 .right { float: right; }
 
+.cf:before,
+.cf:after   { content: " "; display: table; }
+.cf:after   { clear: both; }
+.cf         { *zoom: 1; }
+
 .vc {
   top: 50%;
   transform: translateY(-50%);
@@ -87,6 +92,7 @@
 
 .border-top { border-top: 1px solid #fff; }
 .border-bottom { border-bottom: 1px solid #fff; }
+
 
 
 .pa025 { padding: .25rem; }

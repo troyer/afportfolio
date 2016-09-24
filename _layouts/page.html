@@ -8,9 +8,20 @@ layout: default
   {% include header.html %}
 
   <div class="border-top">
-    <a href="/index" class="right">close</a>
-    <div class="markdown pt2">
-      {{ post.description }}
+    <div class="cf">
+      <a href="/index" class="right cf">close</a>
+    </div>
+    <div class="pt05 cf">
+      <a href="{{ page.url }}" class="link dim h4 white fw-700 sans-serif left">{{ page.title }}</a>
+      <div class="h4 right">
+        {% for tag in page.tags %}
+          <a href="#" class="link white dim"> {{tag}}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+    {{ page.description }}</div>
+  <!--  {{ page.description }} -->
+  <div class="markdown pt2">
       {{ content }}
     </div>
     <a href="/index" class="right">close</a>
