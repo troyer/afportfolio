@@ -7,7 +7,7 @@ tags:
 - Print
 cover-image: "/uploads/project1.jpg"
 description: |-
-  Achieved at Watson & Co.
+  Achieved at **Watson & Co.**
   Photography: Lorem Ipsum
   Link to website: lorem
 order-id: project-id-2
