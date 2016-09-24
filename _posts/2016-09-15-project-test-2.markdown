@@ -6,6 +6,10 @@ tags:
 - Hotel
 - Print
 cover-image: "/uploads/project1.jpg"
+description: |-
+  Achieved at Watson & Co.
+  Photography: Lorem Ipsum
+  Link to website: lorem
 order-id: project-id-2
 layout: default
 ---
