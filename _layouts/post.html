@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="mw-40 center pb5">
+
+  {% include header.html %}
+
+  <div class="border-top">
+    <div class="cf">
+      {% for number in site.project-order %}
+          {% if page.order-id == {{number}} %}
+            <div class="h5 sans-serif fw-700 left"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+          {% endif %}
+      {% endfor %}
+      <a href="/index" class="right">close</a>
+    </div>
+    <div class="pt05 cf">
+      <a href="{{ page.url }}" class="link dim h4 white fw-700 sans-serif left">{{ page.title }}</a>
+      <div class="h4 right">
+        {% for tag in page.tags %}
+          <a href="#" class="link white dim"> {{tag}}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+    <p class="ws-prewrap">{{ page.description }}</p>
+  </div>
+  <div class="markdown pt2">
+      {{ content }}
+    </div>
+    <a href="/index" class="right">close</a>
+  </div>
+</div>
