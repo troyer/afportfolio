@@ -5,9 +5,10 @@ tags:
 - hotel
 - branding
 cover-image: "/uploads/16027_press_watson_no2_3-25-1617772_EM_EDIT-1600-160x272x1609x832_q85.jpg"
-description: 'Achieved at [Watson & Co](http://www.watsonnyc.com/work)
-
-'
+description: |-
+  Achieved at Watson & Co
+  For Ash New York
+  The Dean is the first boutique hotel in Providence.
 order-id: 1-TheDean
 ---
 
