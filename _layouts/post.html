@@ -10,10 +10,15 @@ layout: default
     <div class="cf">
       {% for number in site.project-order %}
           {% if page.order-id == {{number}} %}
-            <div class="h5 sans-serif fw-700 left"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+            <div class="left">
+              <span class="h5 sans-serif fw-700"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+              <img class="ml025" src="/assets/icons/arrow1.svg" />
+            </div>
           {% endif %}
       {% endfor %}
-      <a href="/index" class="right">close</a>
+      <a href="/index" class="white serif link dim right">
+        <img src="/assets/icons/x1.svg" />
+      </a>
     </div>
     <div class="pt05 cf">
       <a href="{{ page.url }}" class="link dim h4 white fw-700 sans-serif left">{{ page.title }}</a>
@@ -27,7 +32,77 @@ layout: default
   </div>
   <div class="markdown pt2">
       {{ content }}
-    </div>
-    <a href="/index" class="right">close</a>
+  </div>
+
+  {% for number in site.project-order %}
+    {% if number == page.order-id %}
+
+      <!-- first project -->
+      {% if forloop.first %}
+        <div class="tc mt2">
+          <a class="white serif link dim ma1 h4 hide" href="{{ post.url }}">
+            Previous Project <img class="mirror ml05" src="/assets/icons/arrow2.svg" />
+          </a>
+          <a href="/index" class="white serif link dim ma1 h4">
+            <img class="" src="/assets/icons/x1.svg" /> Close
+          </a>
+          {% assign index-next = forloop.index0 | plus:1 %}
+          {% assign next = site.posts | where:"order-id",site.project-order[index-next] %}
+          {% for post in next %}
+            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+              <img class="mr05" src="/assets/icons/arrow2.svg" /> Next Project
+            </a>
+          </div>
+        {% endfor %}
+
+      <!-- last project -->
+      {% elsif forloop.last %}
+        <div class="tc mt2">
+          {% assign index-previous = forloop.index0 | minus:1 %}
+          {% assign prev = site.posts | where:"order-id",site.project-order[index-previous] %}
+          {% for post in prev %}
+            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+              Previous Project <img class="mirror ml05" src="/assets/icons/arrow2.svg" />
+            </a>
+          {% endfor %}
+          <a href="/index" class="white serif link dim ma1 h4">
+            <img class="" src="/assets/icons/x1.svg" /> Close
+          </a>
+          <a class="white serif link dim ma1 h4 hide" href="{{ post.url }}">
+            <img class="mr05" src="/assets/icons/arrow2.svg" /> Next Project
+          </a>
+        </div>
+
+      <!-- middle projects -->
+      {% else %}
+        <div class="tc mt2">
+          {% assign index-previous = forloop.index0 | minus:1 %}
+          {% assign prev = site.posts | where:"order-id",site.project-order[index-previous] %}
+          {% for post in prev %}
+            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+              Previous Project <img class="mirror ml05" src="/assets/icons/arrow2.svg" />
+            </a>
+          {% endfor %}
+          <a href="/index" class="white serif link dim ma1 h4">
+            <img class="" src="/assets/icons/x1.svg" /> Close
+          </a>
+          {% assign index-next = forloop.index0 | plus:1 %}
+          {% assign next = site.posts | where:"order-id",site.project-order[index-next] %}
+          {% for post in next %}
+            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+              <img class="mr05" src="/assets/icons/arrow2.svg" /> Next Project
+            </a>
+          {% endfor %}
+      {% endif %}
+    {% endif %}
+  {% endfor%}
+
+  {% assign relevant = site.posts | where:"order-id",page.project-order[0] %}
+  {% for post in relevant %}
+  {{ post.title }}
+  {% endfor %}
+
+
+  </div>
   </div>
 </div>
