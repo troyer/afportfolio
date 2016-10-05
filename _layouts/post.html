@@ -2,9 +2,11 @@
 layout: default
 ---
 
-<div class="mw-40 center pb5 pl05 pr05">
+<div id="ajax-container" class="mw-40 center pb5 pl05 pr05">
 
-  {% include header.html %}
+ {% include header.html %}
+
+<div class="content-slide">
 
   <div class="border-top">
     <div class="cf">
@@ -16,16 +18,16 @@ layout: default
             </div>
           {% endif %}
       {% endfor %}
-      <a href="/index" class="white serif link dim right">
+      <a href="/" class="white serif link dim right closebtn">
         <img src="/assets/icn/x1.svg" />
       </a>
     </div>
     <div class="pt05 cf">
-      <a href="{{ page.url }}" class="link dim h4 white fw-700 sans-serif left">{{ page.title }}</a>
+      <div class="h4 white fw-700 sans-serif left">{{ page.title }}</div>
       <div class="h4 right">
-        {% for tag in page.tags %}
+        <!-- {% for tag in page.tags %}
           <a href="#" class="link white dim"> {{tag}}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
+        {% endfor %} -->
       </div>
     </div>
     <p class="ws-prewrap">{{ page.description }}</p>
@@ -40,16 +42,16 @@ layout: default
       <!-- first project -->
       {% if forloop.first %}
         <div class="tc mt2">
-          <a class="white serif link dim ma1 h4 hide" href="{{ post.url }}">
+          <a class="white serif link dim ma1 h4 hide prevbtn" href="{{ post.url }}">
             Previous Project <img class="mirror ml05" src="/assets/icn/arrow2.svg" />
           </a>
-          <a href="/index" class="white serif link dim ma1 h4">
+          <a href="/index" class="white serif link dim ma1 h4 closebtn">
             <img class="" src="/assets/icn/x1.svg" /> Close
           </a>
           {% assign index-next = forloop.index0 | plus:1 %}
           {% assign next = site.posts | where:"order-id",site.project-order[index-next] %}
           {% for post in next %}
-            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+            <a class="white serif link dim ma1 h4 nextbtn" href="{{ post.url }}">
               <img class="mr05" src="/assets/icn/arrow2.svg" /> Next Project
             </a>
           </div>
@@ -61,14 +63,14 @@ layout: default
           {% assign index-previous = forloop.index0 | minus:1 %}
           {% assign prev = site.posts | where:"order-id",site.project-order[index-previous] %}
           {% for post in prev %}
-            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+            <a class="white serif link dim ma1 h4 prevbtn" href="{{ post.url }}">
               Previous Project <img class="mirror ml05" src="/assets/icn/arrow2.svg" />
             </a>
           {% endfor %}
-          <a href="/index" class="white serif link dim ma1 h4">
+          <a href="/index" class="white serif link dim ma1 h4 closebtn">
             <img class="" src="/assets/icn/x1.svg" /> Close
           </a>
-          <a class="white serif link dim ma1 h4 hide" href="{{ post.url }}">
+          <a class="white serif link dim ma1 h4 hide nextbtn" href="{{ post.url }}">
             <img class="mr05" src="/assets/icn/arrow2.svg" /> Next Project
           </a>
         </div>
@@ -79,17 +81,17 @@ layout: default
           {% assign index-previous = forloop.index0 | minus:1 %}
           {% assign prev = site.posts | where:"order-id",site.project-order[index-previous] %}
           {% for post in prev %}
-            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+            <a class="white serif link dim ma1 h4 prevbtn" href="{{ post.url }}">
               Previous Project <img class="mirror ml05" src="/assets/icn/arrow2.svg" />
             </a>
           {% endfor %}
-          <a href="/index" class="white serif link dim ma1 h4">
+          <a href="/index" class="white serif link dim ma1 h4 closebtn">
             <img class="" src="/assets/icn/x1.svg" /> Close
           </a>
           {% assign index-next = forloop.index0 | plus:1 %}
           {% assign next = site.posts | where:"order-id",site.project-order[index-next] %}
           {% for post in next %}
-            <a class="white serif link dim ma1 h4" href="{{ post.url }}">
+            <a class="white serif link dim ma1 h4 nextbtn" href="{{ post.url }}">
               <img class="mr05" src="/assets/icn/arrow2.svg" /> Next Project
             </a>
           {% endfor %}
@@ -105,4 +107,5 @@ layout: default
 
   </div>
   </div>
+</div>
 </div>
