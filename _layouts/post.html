@@ -30,7 +30,8 @@ layout: default
         {% endfor %} -->
       </div>
     </div>
-    <p class="ws-prewrap">{{ page.description }}</p>
+    {% capture description %}{{ page.description }}{% endcapture %}
+    <div class="ws-prewrap">{{ description | markdownify }}</div>
   </div>
   <div class="markdown pt2">
       {{ content }}
