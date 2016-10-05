@@ -9,6 +9,10 @@ window.JSON||(window.JSON={}),function(){function f(a){return a<10?"0"+a:a}funct
 jQuery(document).ready(function() {
 	var siteUrl = 'http://'+(document.location.hostname||document.location.host);
 
+	checkOverlay();
+	toggleOverlay();
+	checkDirection();
+
 	//	Catch all internally-focused links and push a new state.
 	//	Note: External links will not be affected by this behavior.
 	$(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
@@ -26,29 +30,7 @@ jQuery(document).ready(function() {
 
 			checkOverlay();
 			toggleOverlay();
-
-			$('.projectbtn').click(function() {
-				console.log("bottom");
-				slideDirection = "bottom";
-				$('.ajax').hide();
-				$('.ajax').fadeIn(300);
-			});
-
-			$('.pagebtn').click(function() {
-				console.log("bottom");
-				slideDirection = "bottom";
-				$('.ajax').hide();
-				$('.ajax').fadeIn(300);
-			});
-
-			$('.prevbtn').click(function() {
-				console.log("left");
-				slideDirection = "left";
-			});
-
-			$('.nextbtn').click(function() {
-				slideDirection = "right";
-			});
+			checkDirection();
 
 			switch(slideDirection) {
 		    case "bottom":
@@ -75,7 +57,30 @@ jQuery(document).ready(function() {
 
 	});
 
+	function checkDirection() {
+		$('.projectbtn').click(function() {
+			console.log("bottom");
+			slideDirection = "bottom";
+			$('.ajax').hide();
+			$('.ajax').fadeIn(300);
+		});
 
+		$('.pagebtn').click(function() {
+			console.log("bottom");
+			slideDirection = "bottom";
+			$('.ajax').hide();
+			$('.ajax').fadeIn(300);
+		});
+
+		$('.prevbtn').click(function() {
+			console.log("left");
+			slideDirection = "left";
+		});
+
+		$('.nextbtn').click(function() {
+			slideDirection = "right";
+		});
+	}
 
 	function checkOverlay() {
 		// if modal is open
