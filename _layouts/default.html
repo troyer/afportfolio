@@ -7,7 +7,7 @@
 <body class="bg-black pb5">
 
   <div class="">
-    <div class="mw-40 center">
+    <div class="mw-40 center pl05 pr05 transition-05">
     {% include header.html %}
 
     {% for number in site.project-order %}
@@ -34,8 +34,8 @@
       {% endfor %}
     {% endfor %}
   </div>
-  <div class="ajax fade">
-    <div class="bg-black fixed overflow-scroll mh-100 w-100 t-0">
+  <div class="ajax">
+    <div class="bg-black fixed overflow-scroll mh-100 t-0 l-0 w-100 border-box fade">
       {{ content }}
     </div>
   </div>
