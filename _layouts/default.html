@@ -13,10 +13,11 @@
 
 
     {% for number in site.project-order %}
+      {% assign order_forloop = forloop %}
       {% for post in site.posts %}
         {% if post.order-id == {{number}} %}
           <div class="pb4">
-            <div class="h5 sans-serif fw-700"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+            <div class="h5 sans-serif fw-700"> {% if order_forloop.index < 10 %}0{% endif %}{{ order_forloop.index }}</div>
             <a href="{{ post.url }}" class="relative block mt025 projectbtn">
                 <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
                 <div class="overlay bg-white-7">
