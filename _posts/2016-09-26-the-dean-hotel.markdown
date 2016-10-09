@@ -22,4 +22,3 @@ order-id: 1-TheDean
 ![CH_TheDean_R2_664-1600-0x761x2040x1154_q85.jpg](/uploads/CH_TheDean_R2_664-1600-0x761x2040x1154_q85.jpg)
 ![THEDEAN_SIGNAGE-1600-0x0x3000x1884_q85.jpg](/uploads/THEDEAN_SIGNAGE-1600-0x0x3000x1884_q85.jpg)
 
-### The Dean is the first boutique hotel in Providence and represents the new lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum. and represents the new lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum .
