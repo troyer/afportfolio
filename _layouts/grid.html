@@ -7,27 +7,34 @@
 <body class="bg-black pb5">
 
   <div class="">
-    <div class="mw-60 center pl05 pr05">
+    <div class="mw-40 mw-60-m center pl05 pr05">
     {% include header.html %}
+    <a href="/" class="fixed t-2 r-2 z-2 link dim none block-m closebtn">
+      <img src="/assets/icn/single.svg" />
+    </a>
 
-    <div class="h0">
-    {% for number in site.project-order %}
-      {% for post in site.posts %}
-        {% if post.order-id == {{number}} %}
-          <div class="inlineblock w-grid mr3 mb3">
-            <a href="{{ post.url }}" class="relative block mt025">
-                <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
-                <div class="overlay bg-white-7">
-                    <h1 class="h1 fw-700 sans-serif black tc relative vc">+ See More</h1>
+      <div class="h0">
+        <div class="flex flex-row flex-wrap">
+          {% for number in site.project-order %}
+            {% for post in site.posts %}
+              {% if post.order-id == {{number}} %}
+                <div class="w-grid-m mr1 ml1 flex-grow pb3">
+                  <div class="w-15-m center">
+                  <a href="{{ post.url }}" class="relative block mt025">
+                      <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
+                      <div class="overlay bg-white-7">
+                          <h1 class="h1 fw-700 sans-serif black tc relative vc">+ See More</h1>
+                      </div>
+                  </a>
+                  <div class="pt05">
+                    <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left">{{ post.title }}</a>
+                  </div>
+                  </div>
                 </div>
-            </a>
-            <div class="pt05">
-              <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left">{{ post.title }}</a>
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+      </div>
     </div>
   </div>
   <div class="ajax fade">

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="ajax-container" class="mw-40 center pb5 pl05 pr05">
+<div id="ajax-container" class="mw-40 mw-50-l center pb5 pl05 pr05">
 
  {% include header.html %}
 
@@ -14,13 +14,18 @@ layout: default
           {% if page.order-id == {{number}} %}
             <div class="left">
               <span class="h5 sans-serif fw-700"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
-              {% assign index-next = forloop.index0 | plus:1 %}
+              {% if forloop.last %}
+                {% assign index-next = 0 %}
+              {% else %}
+                {% assign index-next = forloop.index0 | plus:1 %}
+              {% endif %}
               {% assign next = site.posts | where:"order-id",site.project-order[index-next] %}
               {% for post in next %}
                 <a class="link dim nextbtn" href="{{ post.url }}">
                   <img class="ml02 h-025" src="/assets/icn/arrow2.svg" />
                 </a>
               {% endfor %}
+
             </div>
           {% endif %}
       {% endfor %}
@@ -37,7 +42,9 @@ layout: default
       </div>
     </div>
     {% capture description %}{{ page.description }}{% endcapture %}
-    <div class="h4 markdown ws-prewrap">{{ description | markdownify }}</div>
+    <div class="description">
+      <div class="markdown ws-prewrap">{{ description | markdownify }}</div>
+    </div>
   </div>
   <div class="markdown pt2">
       {{ content }}
