@@ -4,8 +4,7 @@ date: 2016-09-25 04:27:00 Z
 cover-image: "/uploads/project2.jpg"
 description: |-
   ## Completed at [Studio](http://)
-
-  ## For [Client](http://)
+  For [Client](http://)
 order-id: project-id-4
 ---
 
