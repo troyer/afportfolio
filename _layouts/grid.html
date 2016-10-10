@@ -5,13 +5,13 @@
 
 
 <body class="bg-black pb5">
-
-  <div class="">
-    <div class="mw-40 mw-60-m center pl05 pr05">
+  <div>
+  <div class="indexswap">
     {% include header.html %}
-    <a href="/" class="fixed t-2 r-2 z-2 link dim none block-m closebtn">
+    <a href="/" class="fixed t-2 r-2 z-2 link dim none block-m closebtn indexbtn">
       <img src="/assets/icn/single.svg" />
     </a>
+    <div id="index-container" class="mw-40 mw-60-m center pl05 pr05 transition-05">
 
       <div class="h0">
         <div class="flex flex-row flex-wrap">
@@ -20,14 +20,14 @@
               {% if post.order-id == {{number}} %}
                 <div class="w-grid-m mr1 ml1 flex-grow pb3">
                   <div class="w-15-m center">
-                  <a href="{{ post.url }}" class="relative block mt025">
+                  <a href="{{ post.url }}" class="relative block mt025 projectbtn">
                       <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
                       <div class="overlay bg-white-7">
                           <h1 class="h1 fw-700 sans-serif black tc relative vc">+ See More</h1>
                       </div>
                   </a>
                   <div class="pt05">
-                    <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left">{{ post.title }}</a>
+                    <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left projectbtn">{{ post.title }}</a>
                   </div>
                   </div>
                 </div>
@@ -37,11 +37,12 @@
       </div>
     </div>
   </div>
-  <div class="ajax fade">
-    <div class="bg-black fixed overflow-scroll mh-100 w-100 t-0">
+  <div class="ajax">
+    <div id="ajax" class="bg-black fixed overflow-scroll mh-100 t-0 l-0 w-100 border-box">
       {{ content }}
     </div>
   </div>
+</div>
 </div>
 
 </body>

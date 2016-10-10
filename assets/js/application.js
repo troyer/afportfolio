@@ -15,9 +15,20 @@ jQuery(document).ready(function() {
 
 	//	Catch all internally-focused links and push a new state.
 	//	Note: External links will not be affected by this behavior.
+	// $('.indexbtn').click(function() {
+	// 	History.Adapter.bind(window, 'statechange', function(){
+	// 		var State = History.getState();
+	// 		$.get(State.url, function(data){	// Use AJAX to get the new content.
+	// 			document.title = data.match(/<title>(.*?)<\/title>/)[1];
+	// 			$('#index-container').html($(data).find('#index-container')); 	// Pull the post we want out of the .ajax class.
+	// 		});
+	// 	});
+	// });
+
 	$(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
 		e.preventDefault();
 		History.pushState({}, "", this.pathname);
+
 	});
 
 	History.Adapter.bind(window, 'statechange', function(){
@@ -25,8 +36,11 @@ jQuery(document).ready(function() {
 
 		$.get(State.url, function(data){	// Use AJAX to get the new content.
 			document.title = data.match(/<title>(.*?)<\/title>/)[1];
-			$('.ajax').html($(data).find('.ajax')); 	// Pull the post we want out of the .ajax class.
+			$('.ajax').html($(data).find('.ajax').parent()); 	// Pull the post we want out of the .ajax class.
 
+			$('.indexbtn').click(function() {
+				$('.indexswap').html($(data).find('.indexswap'));
+			});
 
 			checkOverlay();
 			toggleOverlay();
@@ -57,7 +71,8 @@ jQuery(document).ready(function() {
 
 	});
 
-	function checkDirection() {
+
+		function checkDirection() {
 		$('.projectbtn').click(function() {
 			console.log("bottom");
 			slideDirection = "bottom";
@@ -103,7 +118,6 @@ jQuery(document).ready(function() {
 			$( "body" ).removeClass( "overflow-hidden" );
 		}
 	}
-
 
 
 });
