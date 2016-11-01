@@ -1,6 +1,7 @@
 ---
 title: Project Name 1
 date: 2016-09-25 04:26:00 Z
+small-text: test text
 cover-image: "/uploads/project4.jpg"
 order-id: project-id-3
 ---

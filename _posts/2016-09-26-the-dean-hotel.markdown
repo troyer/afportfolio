@@ -5,6 +5,7 @@ tags:
 - hotel
 - branding
 cover-image: "/uploads/16027_press_watson_no2_3-25-1617772_EM_EDIT-1600-160x272x1609x832_q85.jpg"
+small-text: test text
 description: |-
   Completed at [Watson & Co](http://www.watsonnyc.com/)
   For [Ash New York](http://ashnyc.com/)

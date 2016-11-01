@@ -36,11 +36,11 @@ jQuery(document).ready(function() {
 
 		$.get(State.url, function(data){	// Use AJAX to get the new content.
 			document.title = data.match(/<title>(.*?)<\/title>/)[1];
-			$('.ajax').html($(data).find('.ajax').parent()); 	// Pull the post we want out of the .ajax class.
+			$('.ajax').html($(data).find('.ajax')); 	// Pull the post we want out of the .ajax class.
 
-			$('.indexbtn').click(function() {
-				$('.indexswap').html($(data).find('.indexswap'));
-			});
+		//	$('.indexbtn').click(function() {
+		//  $('.indexswap').html($(data).find('.indexswap'));
+		//	});
 
 			checkOverlay();
 			toggleOverlay();
@@ -109,11 +109,9 @@ jQuery(document).ready(function() {
 
 	function toggleOverlay() {
 		if ( isOverlay ){
-			console.log("open");
 			$( "#index-container" ).addClass( "scale-08" );
 			$( "body" ).addClass( "overflow-hidden" );
 		} else {
-			console.log("closed");
 			$( "#index-container" ).removeClass( "scale-08" );
 			$( "body" ).removeClass( "overflow-hidden" );
 		}

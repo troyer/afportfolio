@@ -6,6 +6,7 @@ tags:
 - Hotel
 - Print
 cover-image: "/uploads/project1.jpg"
+small-text: test text
 description: |
   Achieved at Watson & Co.
   Photography: Lorem Ipsum
