@@ -15,10 +15,10 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    cover-image:
+    cover-image: 
     small-text: 
-    description:
-    order-id:
+    description: 
+    order-id: 
 - scope:
     path: ''
     type: pages
@@ -30,7 +30,7 @@ sass:
 permalink: pretty
 description: is a french graphic designer based in New York City currently working
   at Mother Design.
-keywords:
+keywords: 
 project-order:
 - 1-TheDean
 - project-id-2
