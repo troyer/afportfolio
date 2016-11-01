@@ -25,6 +25,11 @@ jQuery(document).ready(function() {
 	// 	});
 	// });
 
+	//grid-single switch
+	$('.indexbtn').click(function() {
+	    location.reload();
+	});
+
 	$(document).delegate('a[href^="/"],a[href^="'+siteUrl+'"]', "click", function(e) {
 		e.preventDefault();
 		History.pushState({}, "", this.pathname);
@@ -36,11 +41,10 @@ jQuery(document).ready(function() {
 
 		$.get(State.url, function(data){	// Use AJAX to get the new content.
 			document.title = data.match(/<title>(.*?)<\/title>/)[1];
+
 			$('.ajax').html($(data).find('.ajax')); 	// Pull the post we want out of the .ajax class.
 
-		//	$('.indexbtn').click(function() {
-		//  $('.indexswap').html($(data).find('.indexswap'));
-		//	});
+
 
 			checkOverlay();
 			toggleOverlay();
