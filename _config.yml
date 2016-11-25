@@ -5,6 +5,9 @@ collections:
   posts:
     title: Projects
     output: true
+  test:
+    title: Test
+    output: true
   uploads:
     title: Uploads
     output: true
