@@ -1,7 +1,7 @@
 ---
 title: Same
 date: 2016-09-25 04:26:00 Z
-cover-image: "/uploads/project4.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Visual identity for the architecture studio in Paris.
 order-id: Same
 ---
