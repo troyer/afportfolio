@@ -5,8 +5,9 @@ cover-image: "/uploads/Alizee-Freudenthal-MNZ-Lookbook-COVER.jpg"
 small-text: Fashion Lookbook
 description: |-
   Maryam Nassir Zadeh
-  Spring / Summer 2013
-  Lookbook
+  S/S 2013 Lookbook
+  Photography: [André Herrero](http://www.andreherrero.com/)
+  Styling: [Avena Gallagher](http://www.avenagallagher.com/)
 order-id: MNZ Lookbook
 ---
 
