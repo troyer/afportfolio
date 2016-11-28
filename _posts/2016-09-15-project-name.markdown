@@ -12,7 +12,7 @@ description: |+
   of Colors #74, The Dance issue.
   Completed at Colors Magazine / Fabrica
   Creative Director: Erik Ravelo
-  Co-Art Director: Magdalena Czaneski
+  Co-Art Director: Magdalena Czarneski
   Graphic Designer: Emmanuel Plougoulm
   Photographers: Laia Abril, Chris Saunders
 
