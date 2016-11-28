@@ -3,9 +3,7 @@ title: Maryam Nassir Zadeh
 date: 2016-09-25 04:27:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER.jpg"
 small-text: Fashion Branding
-description: |-
-  Logotype & identity for
-  the designer store.
+description: "Logotype & visual identity \nfor the designer store."
 order-id: 2-MNZ1
 ---
 
