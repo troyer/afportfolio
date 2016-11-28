@@ -3,7 +3,10 @@ title: MNZ Lookbook
 date: 2016-09-25 04:27:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-MNZ-Lookbook-COVER.jpg"
 small-text: Fashion Lookbook
-description: "Maryam Nassir Zadeh\nFall / Winter 2012 \nLookbook"
+description: |-
+  Maryam Nassir Zadeh
+  Spring / Summer 2013
+  Lookbook
 order-id: MNZ Lookbook
 ---
 
