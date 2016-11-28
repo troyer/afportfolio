@@ -7,7 +7,7 @@ tags:
 cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER.jpg"
 small-text: Hotel Branding
 description: "Completed at [Watson & Co](http://www.watsonnyc.com/)\nFor [Ash New
-  York](http://ashnyc.com/)\nPhotography: Christian Harder \nCourtesy of ASH"
+  York](http://ashnyc.com/)\nHotel Photography: Christian Harder \nCourtesy of ASH"
 order-id: 1-TheDean
 ---
 
