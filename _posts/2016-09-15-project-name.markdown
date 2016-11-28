@@ -9,7 +9,7 @@ cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-2.jpg"
 small-text: Editorial
 description: |+
   Art Direction & Design
-  of Colors #74, The Dance issue.
+  of Colors #78, The Dance issue.
   Completed at Colors Magazine / Fabrica
   Creative Director: Erik Ravelo
   Co-Art Director: Magdalena Czarneski
