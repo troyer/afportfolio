@@ -5,7 +5,7 @@ tags:
 - Identity
 - Hotel
 - Print
-cover-image: "/uploads/project5.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-2.jpg"
 small-text: Editorial
 description: |+
   Art Direction & Design
