@@ -6,7 +6,7 @@ tags:
 - branding
 cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER.jpg"
 small-text: Hotel Branding
-description: |-
+description: |
   Completed at [Watson & Co](http://www.watsonnyc.com/)
   For [Ash New York](http://ashnyc.com/)
 order-id: 1-TheDean
