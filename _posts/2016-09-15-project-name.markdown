@@ -1,22 +1,23 @@
 ---
-title: Project Name
+title: 'Colors Magazine #78'
 date: 2016-09-15 02:54:00 Z
 tags:
 - Identity
 - Hotel
 - Print
 cover-image: "/uploads/project5.jpg"
-small-text: test text
-description: |
-  Achieved at Watson & Co.
-  Photography: Lorem Ipsum
-  Link to website: lorem
-order-id: project-id-1
+small-text: Editorial
+description: |+
+  Art Direction & Design
+  of Colors #74, The Dance issue.
+  Completed at Colors Magazine / Fabrica
+  Creative Director: Erik Ravelo
+  Co-Art Director: Magdalena Czaneski
+  Graphic Designer: Emmanuel Plougoulm
+  Photographers: Laia Abril, Chris Saunders
+
+order-id: Colors Dance
 layout: post
 ---
 
-![project5.jpg](/uploads/project5.jpg)
-![project5.jpg](/uploads/project5.jpg)
-![project5.jpg](/uploads/project5.jpg)
-![project5.jpg](/uploads/project5.jpg)
-![project5.jpg](/uploads/project5.jpg)
+![Alizee-Freudenthal-Colors-Magazine-1.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-1.jpg)![Alizee-Freudenthal-Colors-Magazine-1a.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-1a.jpg)![Alizee-Freudenthal-Colors-Magazine-2.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-2.jpg)![Alizee-Freudenthal-Colors-Magazine-3.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-3.jpg)![Alizee-Freudenthal-Colors-Magazine-4.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-4.jpg)![Alizee-Freudenthal-Colors-Magazine-5.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-5.jpg)![Alizee-Freudenthal-Colors-Magazine-7.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-7.jpg)![Alizee-Freudenthal-Colors-Magazine-8.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-8.jpg)![Alizee-Freudenthal-Colors-Magazine-12.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-12.jpg)![Alizee-Freudenthal-Colors-Magazine-6.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-6.jpg)![Alizee-Freudenthal-Colors-Magazine-9.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-9.jpg)![Alizee-Freudenthal-Colors-Magazine-10.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-10.jpg)![Alizee-Freudenthal-Colors-Magazine-11.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-11.jpg)![Alizee-Freudenthal-Colors-Magazine-12a.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-12a.jpg)![Alizee-Freudenthal-Colors-Magazine-13.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-13.jpg)![Alizee-Freudenthal-Colors-Magazine-14.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-14.jpg)
