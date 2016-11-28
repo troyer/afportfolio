@@ -1,11 +1,10 @@
 ---
-title: Test
+title: Maryam Nassir Zadeh
 date: 2016-09-25 04:27:00 Z
-cover-image: "/uploads/project3.jpg"
-small-text: test text
-order-id: project-id-5
+cover-image: "/uploads/Alizee-Freudenthal-MNZ-Lookbook-COVER.jpg"
+small-text: Fashion Lookbook
+description: "MNZ \nFall / Winter 2012 \nLookbook"
+order-id: MNZ Lookbook
 ---
 
-![project3.jpg](/uploads/project3.jpg)
-![project3.jpg](/uploads/project3.jpg)
-![project3.jpg](/uploads/project3.jpg)
+![Alizee-Freudenthal-MNZ-Lookbook-0.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-0.jpg)![Alizee-Freudenthal-MNZ-Lookbook-1.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-1.jpg)![Alizee-Freudenthal-MNZ-Lookbook-2.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-2.jpg)![Alizee-Freudenthal-MNZ-Lookbook-3.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-3.jpg)![Alizee-Freudenthal-MNZ-Lookbook-4.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-4.jpg)![Alizee-Freudenthal-MNZ-Lookbook-5.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-5.jpg)![Alizee-Freudenthal-MNZ-Lookbook-6.jpg](/uploads/Alizee-Freudenthal-MNZ-Lookbook-6.jpg)
