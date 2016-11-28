@@ -2,7 +2,7 @@
 title: Same
 date: 2016-09-25 04:26:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
-small-text: Visual Identity
+small-text: Logotype & Visual Identity
 description: "Visual identity for SAME, a new \narchitecture studio in Paris."
 order-id: Same
 ---
