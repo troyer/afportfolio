@@ -1,12 +1,10 @@
 ---
-title: Test
+title: Colors Magazine
 date: 2016-10-20 01:57:00 Z
-cover-image: "/uploads/test.gif"
+cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
+small-text: Editorial
+description: "Collaborations for Colors #76 \n\"The Sea\" and #77 \"Teenagers\"."
 order-id: test-pr
 ---
 
-testing
-![test.gif](/uploads/test.gif)
-[p3.mov](/uploads/p3.mov)
-
-<iframe src="https://player.vimeo.com/video/914062" width="640" height="426" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Alizee-Freudenthal-Colors-Magazine-TheSea-cc3f6c.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-TheSea-cc3f6c.jpg)![Alizee-Freudenthal-Colors-Magazine-Teenagers-1501b2.png](/uploads/Alizee-Freudenthal-Colors-Magazine-Teenagers-1501b2.png)
