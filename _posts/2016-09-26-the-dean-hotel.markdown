@@ -1,5 +1,5 @@
 ---
-title: The Dean
+title: The Dean Hotel
 date: 2016-09-26 15:56:00 Z
 tags:
 - hotel
