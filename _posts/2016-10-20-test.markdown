@@ -4,7 +4,7 @@ date: 2016-10-20 01:57:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
 small-text: Editorial
 description: "Collaborations for Colors #76 \n\"The Sea\" and #77 \"Teenagers\"."
-order-id: test-pr
+order-id: Colors Others
 ---
 
 ![Alizee-Freudenthal-Colors-Magazine-TheSea-cc3f6c.jpg](/uploads/Alizee-Freudenthal-Colors-Magazine-TheSea-cc3f6c.jpg)![Alizee-Freudenthal-Colors-Magazine-Teenagers-1501b2.png](/uploads/Alizee-Freudenthal-Colors-Magazine-Teenagers-1501b2.png)
