@@ -7,4 +7,4 @@ description: "Logotype & visual identity \nfor the designer store."
 order-id: 2-MNZ1
 ---
 
-![Alizee-Freudenthal-MNZ-1.jpg](/uploads/Alizee-Freudenthal-MNZ-1.jpg)![Alizee-Freudenthal-MNZ-2.jpg](/uploads/Alizee-Freudenthal-MNZ-2.jpg)![Alizee-Freudenthal-MNZ-3.jpg](/uploads/Alizee-Freudenthal-MNZ-3.jpg)![Alizee-Freudenthal-MNZ-4.jpg](/uploads/Alizee-Freudenthal-MNZ-4.jpg)![Alizee-Freudenthal-MNZ-5.jpg](/uploads/Alizee-Freudenthal-MNZ-5.jpg)
+![Alizee-Freudenthal-MNZ-1.jpg](/uploads/Alizee-Freudenthal-MNZ-1.jpg)![Alizee-Freudenthal-MNZ-2.jpg](/uploads/Alizee-Freudenthal-MNZ-2.jpg)![Alizee-Freudenthal-MNZ-4.jpg](/uploads/Alizee-Freudenthal-MNZ-4.jpg)![Alizee-Freudenthal-MNZ-6.jpg](/uploads/Alizee-Freudenthal-MNZ-6.jpg)![Alizee-Freudenthal-MNZ-5.jpg](/uploads/Alizee-Freudenthal-MNZ-5.jpg)
