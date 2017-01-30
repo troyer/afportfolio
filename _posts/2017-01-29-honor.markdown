@@ -1,7 +1,7 @@
 ---
 title: Honor
 date: 2017-01-29 23:49:00 Z
-cover-image: "/uploads/hightide_honor_5_860.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-Honor-Invite-Cover.jpg"
 small-text: Invite & Web
 description: "Projects in collaboration with [High Tide](http://www.hightidenyc.com/)
   \nPrinted invite for the luxury brand's Fall 2014 Fashion Show and E-Commerce design. "
@@ -9,4 +9,4 @@ order-id: Honor
 Field name: 
 ---
 
-![hightide_honor_5_860.jpg](/uploads/hightide_honor_5_860.jpg)![hightide_honor_1_860.jpg](/uploads/hightide_honor_1_860.jpg)![hightide_honor_2_860.jpg](/uploads/hightide_honor_2_860.jpg)![hightide_honor_3_860.jpg](/uploads/hightide_honor_3_860.jpg)![hightide_honor_4_860.jpg](/uploads/hightide_honor_4_860.jpg)![Alizee-Freudenthal-Honor-Web-01.jpg](/uploads/Alizee-Freudenthal-Honor-Web-01.jpg)![Alizee-Freudenthal-Honor-Web-02.jpg](/uploads/Alizee-Freudenthal-Honor-Web-02.jpg)![Alizee-Freudenthal-Honor-Web-03.jpg](/uploads/Alizee-Freudenthal-Honor-Web-03.jpg)
+![Alizee-Freudenthal-Honor-Invite-01.jpg](/uploads/Alizee-Freudenthal-Honor-Invite-01.jpg)![Alizee-Freudenthal-Honor-Invite-06.jpg](/uploads/Alizee-Freudenthal-Honor-Invite-06.jpg)![Alizee-Freudenthal-Honor-Invite-02.jpg](/uploads/Alizee-Freudenthal-Honor-Invite-02.jpg)![Alizee-Freudenthal-Honor-Invite-03.jpg](/uploads/Alizee-Freudenthal-Honor-Invite-03.jpg)![Alizee-Freudenthal-Honor-Invite-04.jpg](/uploads/Alizee-Freudenthal-Honor-Invite-04.jpg)![Alizee-Freudenthal-Honor-Web-01.jpg](/uploads/Alizee-Freudenthal-Honor-Web-01.jpg)![Alizee-Freudenthal-Honor-Web-02.jpg](/uploads/Alizee-Freudenthal-Honor-Web-02.jpg)![Alizee-Freudenthal-Honor-Web-03.jpg](/uploads/Alizee-Freudenthal-Honor-Web-03.jpg)
