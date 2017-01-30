@@ -3,7 +3,9 @@ title: Maryam Nassir Zadeh
 date: 2016-09-25 04:27:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER.jpg"
 small-text: Fashion Branding
-description: "Logotype, visual identity and \nlook book design for the designer store."
+description: "Logotype, visual identity and look book \ndesign for the designer store.\nS/S
+  2013 Lookbook — Photography: [André Herrero](http://www.andreherrero.com/) — Styling:
+  [Avena Gallagher](http://www.avenagallagher.com/)"
 order-id: 2-MNZ1
 ---
 
