@@ -2,9 +2,11 @@
 title: Nadia Tarr
 date: 2017-01-16 22:06:00 Z
 cover-image: "/uploads/AlizeeFreudenthal-NadiaTarr-ArtDirection-Winter01-COVER-2b98be.jpg"
-small-text: Art Direction, Logotype & Web.
-description: 'Branding, Art Direction and E-commerce design for the Red Hook based
-  fashion brand. '
+small-text: 'Art Direction, Logotype & Web.
+
+'
+description: "Branding, Art Direction and E-Commerce \ndesign for the Red Hook based
+  fashion brand. \nCompleted at [Watson & Co](http://www.watsonnyc.com/)"
 order-id: NadiaTarr
 ---
 
