@@ -6,6 +6,7 @@ small-text: Hotel Branding
 description: |-
   Visual identity for the Marlton Hotel in New York City, formerly house of the beat generation, where Jack Kerouac wrote "On The Road".
   Completed at [Watson & Co](http://www.watsonnyc.com/).
+  Visit [marltonhotel.com](http://marltonhotel.com/)
 order-id: Marlton Hotel
 ---
 
