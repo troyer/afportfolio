@@ -6,7 +6,7 @@ small-text: 'Art Direction, Logotype & Web.
 
 '
 description: "Branding, Art Direction and E-Commerce \ndesign for the Red Hook based
-  fashion brand. \nCompleted at [Watson & Co](http://www.watsonnyc.com/)"
+  fashion brand. \nCompleted at [Watson & Co](http://www.watsonnyc.com/)."
 order-id: NadiaTarr
 ---
 
