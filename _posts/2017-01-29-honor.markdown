@@ -4,7 +4,7 @@ date: 2017-01-29 23:49:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-Honor-Invite-Cover.jpg"
 small-text: Invite & Web
 description: "Printed invite for the Fall 2014 Fashion Show \nand E-Commerce design
-  of the luxury brand. \nVisit [honornyc.com](honornyc.com)\nIn collaboration with
+  of the luxury brand. \nVisit [honornyc.com](honornyc.com) — In collaboration with
   [High Tide](http://www.hightidenyc.com/) \nPhotography Courtesy of High Tide."
 order-id: Honor
 Field name: 
