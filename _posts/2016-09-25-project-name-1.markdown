@@ -7,4 +7,4 @@ description: "Visual identity for the \narchitecture studio in Paris."
 order-id: Same
 ---
 
-![Alizee-Freudenthal-SAME-1.jpg](/uploads/Alizee-Freudenthal-SAME-1.jpg)![Alizee-Freudenthal-SAME-2.jpg](/uploads/Alizee-Freudenthal-SAME-2.jpg)![Alizee-Freudenthal-SAME-3.jpg](/uploads/Alizee-Freudenthal-SAME-3.jpg)
+![Alizee-Freudenthal-SAME-1.jpg](/uploads/Alizee-Freudenthal-SAME-1.jpg)![Alizee-Freudenthal-SAME-2.jpg](/uploads/Alizee-Freudenthal-SAME-2.jpg)![Alizee-Freudenthal-SAME-3.jpg](/uploads/Alizee-Freudenthal-SAME-3.jpg)![Alizee-Freudenthal-SAME-5.jpg](/uploads/Alizee-Freudenthal-SAME-5.jpg)
