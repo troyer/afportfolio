@@ -1,0 +1,12 @@
+---
+title: Marlton Hotel
+date: 2017-01-30 03:44:00 Z
+cover-image: "/uploads/Alizee-Freudenthal-Marlton-Hotel-Cover1.jpg"
+small-text: Hotel Branding
+description: |-
+  Visual identity for the Marlton Hotel in New York City, formerly house of the beat generation, where Jack Kerouac wrote "On The Road".
+  Completed at [Watson & Co](http://www.watsonnyc.com/).
+order-id: Marlton Hotel
+---
+
+![Alizee-Freudenthal-Marlton-Hotel-05.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-05.jpg)![Alizee-Freudenthal-Marlton-Hotel-01.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-01.jpg)![Alizee-Freudenthal-Marlton-Hotel-02.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-02.jpg)![Alizee-Freudenthal-Marlton-Hotel-03.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-03.jpg)![Alizee-Freudenthal-Marlton-Hotel-04.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-04.jpg)![Alizee-Freudenthal-Marlton-Hotel-06.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-06.jpg)![Alizee-Freudenthal-Marlton-Hotel-07.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-07.jpg)![Alizee-Freudenthal-Marlton-Hotel-08.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-08.jpg)![Alizee-Freudenthal-Marlton-Hotel-11.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-11.jpg)![Alizee-Freudenthal-Marlton-Hotel-10.jpg](/uploads/Alizee-Freudenthal-Marlton-Hotel-10.jpg)
