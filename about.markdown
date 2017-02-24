@@ -4,7 +4,7 @@ date: 2016-09-19 20:00:00 Z
 layout: page
 ---
 
-# [`alizee@alizeefreudenthal.com`](mailto:bonjour@alizeefreudenthal.com)
+# [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
 
 # Words by [Kingston Trinder](http://www.kingstontrinder.com/).
 
@@ -18,4 +18,4 @@ layout: page
 
 # Labouring then for several renowned agencies such as [2x4](http://2x4.org/), [Pentagram](http://www.pentagram.com/#/home), [Be-Poles](http://be-poles.com/en/), [Watson & Co](http://www.watsonnyc.com/) and [Mother Design](http://www.motherdesign.com/), Alizée is now freelancing wherever she may, all across Gotham City, and abroad. When not lost deep in the wonderful worlds of grids, kerns and Pantones, Alizée spends many a long hour wondering over the minutiae of human relationships, the forever pleasures of travel, experimenting with her crockpots, and examining the nomadic culture of the Tzigane, or lesser-known Eastern European Gypsy.
   
-# Despite her most gallant efforts, Alizee’s Parisian tongue cannot quite yet stay in her pocket; for she suffers endlessly over pronouncing that most indispensable of English words, the skewer.
+# Despite her most gallant efforts, Alizée’s Parisian tongue cannot quite yet stay in her pocket; for she suffers endlessly over pronouncing that most indispensable of English words, the skewer.
