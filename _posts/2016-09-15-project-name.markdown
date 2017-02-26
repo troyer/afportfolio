@@ -8,9 +8,9 @@ tags:
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
 small-text: Editorial
 description: |+
-  Art Direction & Design
+  Co-Art Direction & Design
   of Colors #78, The Dance issue.
-  Completed at Colors Magazine / Fabrica
+  Completed at [Fabrica](http://www.fabrica.it/?lang=en_us).
 
 
 order-id: Colors Dance
