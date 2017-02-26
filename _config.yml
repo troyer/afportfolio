@@ -28,8 +28,9 @@ author: Alizée Freudenthal
 sass:
   sass_dir: assets/css
 permalink: pretty
-description: "is a french art director and graphic designer\nbased in New York City
-  and available for collaborations\nhere, there and everywhere.  "
+description: "is a french art director and graphic designer\ncode {\n    white-space:
+  pre;\n}\nbased in New York City and available for collaborations\ncode {\n    white-space:
+  pre;\n}\nhere, there and everywhere.  "
 keywords: 
 project-order:
 - 1-TheDean
