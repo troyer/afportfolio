@@ -4,7 +4,7 @@ date: 2016-09-19 20:00:00 Z
 layout: page
 ---
 
-# [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
+## [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
 
 <br>
 # Words by [Kingston Trinder](http://www.kingstontrinder.com/).
