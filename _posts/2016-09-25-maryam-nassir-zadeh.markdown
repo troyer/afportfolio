@@ -1,6 +1,19 @@
 ---
 title: Maryam Nassir Zadeh
 date: 2016-09-25 04:27:00 Z
+tags:
+- Identity
+- branding
+- fashion branding
+- logotype
+- typography
+- Print
+- uday kak
+- maryam nassirzadeh
+- designer store
+- hign end fashion
+- fashion
+- stationery
 cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER.jpg"
 small-text: Fashion Branding
 description: "Logotype, visual identity and look book \ndesign for the designer store.\nS/S
