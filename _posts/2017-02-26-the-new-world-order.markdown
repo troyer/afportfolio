@@ -1,6 +1,13 @@
 ---
 title: The New World Order
 date: 2017-02-26 21:28:00 Z
+tags:
+- fashion
+- e-commerce
+- renee bejil
+- vintage
+- high-end vintage
+- fashion website
 cover-image: "/uploads/Alizee-Freudenthal-The-New-World-Order-Cover.jpg"
 small-text: Fashion E-Commerce
 description: "Identity and design of the online \nhigh end fashion store. \nVisit
