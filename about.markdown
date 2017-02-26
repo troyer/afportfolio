@@ -6,9 +6,11 @@ layout: page
 
 # [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
 
-<br># Words by [Kingston Trinder](http://www.kingstontrinder.com/).
+<br>
+# Words by [Kingston Trinder](http://www.kingstontrinder.com/).
 
-<br># Nourished by Parisian dawn, and palaeontologist’s dream,  Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey, magnifique France.
+<br>
+# Nourished by Parisian dawn, and palaeontologist’s dream,  Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey, magnifique France.
 
 <br># At the tenderest age of twenty, young Alizée boarded a railway train bound now for nearby Belgium and Brussels, to an education in Visual Communication and Graphic Design. And a lovely paper declaration that forever reads, Alizée Freudenthal, Master Of Arts.    
 
