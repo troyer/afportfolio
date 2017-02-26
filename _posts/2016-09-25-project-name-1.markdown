@@ -1,6 +1,13 @@
 ---
 title: Same
 date: 2016-09-25 04:26:00 Z
+tags:
+- Identity
+- logotype
+- typography
+- architecture
+- french architects
+- paris
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Logotype & Visual Identity
 description: "Visual identity for the \narchitecture studio in Paris."
