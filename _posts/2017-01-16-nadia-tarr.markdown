@@ -14,6 +14,7 @@ tags:
 - redhook
 - jersey spandex
 - wrap dress
+- art direction
 cover-image: "/uploads/AlizeeFreudenthal-NadiaTarr-ArtDirection-Winter01-COVER-2b98be.jpg"
 small-text: 'Art Direction, Logotype & Web.
 
