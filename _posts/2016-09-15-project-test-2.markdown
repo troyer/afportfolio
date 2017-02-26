@@ -3,8 +3,13 @@ title: Sunata
 date: 2016-09-15 02:57:00 Z
 tags:
 - Identity
-- Hotel
 - Print
+- logotype
+- typography
+- paris
+- simon martellozo
+- branding
+- sound design
 cover-image: "/uploads/Alizee-Freudenthal-SUNATA-cover.jpg"
 small-text: Logotype & Visual Identity
 description: "Logotype and visual identity \nfor Sunata, a sound design \nstudio in
