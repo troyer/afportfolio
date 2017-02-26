@@ -4,6 +4,18 @@ date: 2016-09-26 15:56:00 Z
 tags:
 - hotel
 - branding
+- hotel branding
+- boutique hotel
+- providence
+- ash
+- will cooper
+- ari heckman
+- watson & co
+- logotype
+- mural
+- signage
+- hotel identity
+- typography
 cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER.jpg"
 small-text: Hotel Branding
 description: "Completed at [Watson & Co](http://www.watsonnyc.com/)\nFor [Ash New
