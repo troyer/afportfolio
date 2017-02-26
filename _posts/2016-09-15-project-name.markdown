@@ -2,9 +2,18 @@
 title: 'Colors Magazine #78'
 date: 2016-09-15 02:54:00 Z
 tags:
-- Identity
-- Hotel
-- Print
+- editorial
+- magazine
+- colors
+- tibor kalman
+- fabrica
+- chris saunders
+- laia abril
+- typography
+- layout
+- art direction
+- colors magazine
+- yellow pages
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
 small-text: Editorial
 description: |+
