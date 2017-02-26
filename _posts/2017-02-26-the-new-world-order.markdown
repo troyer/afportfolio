@@ -3,7 +3,8 @@ title: The New World Order
 date: 2017-02-26 21:28:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-The-New-World-Order-Cover.jpg"
 small-text: Fashion E-Commerce
-description: Identity and design of the online high end fashion store. Visit [thenewworldordernyc.com](http://thenewworldordernyc.com/)
+description: "Identity and design of the online \nhigh end fashion store. \nVisit
+  [thenewworldordernyc.com](http://thenewworldordernyc.com/)"
 order-id: NWO
 ---
 
