@@ -1,6 +1,7 @@
 ---
 title: Colors Magazine
 date: 2016-10-20 01:57:00 Z
+published: false
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
 small-text: Editorial
 description: "Collaborator for Colors #76 \n\"The Sea\" and #77 \"Teenagers\".\n"
