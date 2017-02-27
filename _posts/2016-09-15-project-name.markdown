@@ -21,7 +21,7 @@ description: |+
   of Colors #78, The Dance issue.
   Completed at [Fabrica](http://www.fabrica.it/?lang=en_us).
   Creative Director: Erik Ravelo
-  Co-Art Director: Magdalena Czarneski
+  Co-Art Director: Magdalena Czarnecki
   Graphic Designer: Emmanuel Plougoulm
   Photographers: Laia Abril, Chris Saunders
 
