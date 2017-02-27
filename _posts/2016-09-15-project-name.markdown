@@ -14,6 +14,7 @@ tags:
 - art direction
 - colors magazine
 - yellow pages
+- dance
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-dff3fe.jpg"
 small-text: Editorial
 description: |+
