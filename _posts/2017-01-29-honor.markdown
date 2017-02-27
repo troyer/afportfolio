@@ -15,7 +15,7 @@ tags:
 - fashion e-commerce
 - fashion website
 - typography
-cover-image: "/uploads/Alizee-Freudenthal-Honor-Invite-Cover-620055.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-Honor-Invite-Cover.jpg"
 small-text: Invite & Web
 description: "Printed invite for the Fall 2014 Fashion Show \nand E-Commerce design
   of the luxury brand. \nIn collaboration with [High Tide](http://www.hightidenyc.com/)\nVisit
