@@ -13,6 +13,7 @@ tags:
 - penguin random house
 - editorial
 - art direction
+cover-image: "/uploads/Alizee-Freudenthal-Nasty-Galaxy-Cover.jpg"
 small-text: Book Design
 description: "Art direction & design of Sophia Amoruso's \ncoffee table book. Completed
   at [Mother Design](http://www.motherdesign.com)."
