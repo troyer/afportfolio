@@ -14,7 +14,7 @@ tags:
 - editorial
 - art direction
 small-text: Book Design
-description: "Art direction & design of Sophia Amoruso's \ncoffee table book.\nCompleted
+description: "Art direction & design of Sophia Amoruso's \ncoffee table book. Completed
   at [Mother Design](http://www.motherdesign.com)."
 order-id: Nasty Galaxy
 ---
