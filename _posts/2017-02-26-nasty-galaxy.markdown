@@ -20,3 +20,4 @@ description: |-
 order-id: Nasty Galaxy
 ---
 
+![MotherDesign_NastyGalaxy_2800x1575_01.jpg](/uploads/MotherDesign_NastyGalaxy_2800x1575_01.jpg)![MotherDesign_NastyGalaxy_2800x1862_02.jpg](/uploads/MotherDesign_NastyGalaxy_2800x1862_02.jpg)![MotherDesign_NastyGalaxy_2800x1862_03.jpg](/uploads/MotherDesign_NastyGalaxy_2800x1862_03.jpg)![MotherDesign_NastyGalaxy_2800x1862_25.jpg](/uploads/MotherDesign_NastyGalaxy_2800x1862_25.jpg)
