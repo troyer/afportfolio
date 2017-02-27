@@ -14,7 +14,7 @@ tags:
 - hign end fashion
 - fashion
 - stationery
-cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER-1bed9c.jpg"
 small-text: Fashion Branding
 description: "Logotype, visual identity and look book \ndesign for the designer store.\nS/S
   2013 Lookbook:\nPhotography: [André Herrero](http://www.andreherrero.com/)\nStyling:
