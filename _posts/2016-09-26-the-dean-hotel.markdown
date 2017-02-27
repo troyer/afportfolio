@@ -16,7 +16,7 @@ tags:
 - signage
 - hotel identity
 - typography
-cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER.jpg"
+cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
 small-text: Hotel Branding
 description: "Completed at [Watson & Co](http://www.watsonnyc.com/)\nFor [Ash New
   York](http://ashnyc.com/)\nHotel Photography: Christian Harder \nCourtesy of ASH"
