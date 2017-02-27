@@ -14,7 +14,7 @@ tags:
 - art direction
 - colors magazine
 - yellow pages
-cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-1-0b0b63.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover.jpg"
 small-text: Editorial
 description: |+
   Art Direction & Design
