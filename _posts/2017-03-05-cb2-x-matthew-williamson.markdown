@@ -11,8 +11,8 @@ tags:
 - flag
 cover-image: "/uploads/Alizee-Freudenthal-CB2xMW-Flag-Cover.jpg"
 small-text: Visual Identity
-description: "Visual identity of the vibrant collaboration between \nCB2 and fashion
-  designer Matthew Williamson.\nAgency: [Mother Design](http://www.motherdesign.com)."
+description: "Visual identity of the vibrant collaboration between \nCB2 and the british
+  fashion designer Matthew Williamson.\nAgency: [Mother Design](http://www.motherdesign.com)."
 order-id: CB2 x Matthew Williamson
 ---
 
