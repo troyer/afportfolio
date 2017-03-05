@@ -17,9 +17,12 @@ tags:
 - typography
 cover-image: "/uploads/Alizee-Freudenthal-Marlton-Hotel-Cover1.jpg"
 small-text: Hotel Branding
-description: "Visual identity for the Marlton Hotel in NYC, \nformerly house of the
-  beat generation, \nwhere Jack Kerouac wrote \"On The Road\".\nCompleted at [Watson
-  & Co](http://www.watsonnyc.com/).\nVisit [marltonhotel.com](http://marltonhotel.com/)"
+description: |-
+  Art Direction and global identity for the former
+  house of the Beat Generation in Greenwich Village,
+  where Jack Kerouac penned "On The Road".
+  Completed at [Watson & Co](http://www.watsonnyc.com/).
+  Visit [marltonhotel.com](http://marltonhotel.com/)
 order-id: Marlton Hotel
 ---
 
