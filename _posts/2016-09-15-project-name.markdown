@@ -16,10 +16,10 @@ tags:
 - yellow pages
 - dance
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-dff3fe.jpg"
-small-text: Editorial
+small-text: Editorial Design & Art Direction
 description: |+
   Art Direction & Design
-  of Colors #78, The Dance issue.
+  of Colors Magazine #78, The Dance issue.
   Completed at [Fabrica](http://www.fabrica.it/?lang=en_us).
   Creative Director: Erik Ravelo
   Co-Art Director: Magdalena Czarnecki
