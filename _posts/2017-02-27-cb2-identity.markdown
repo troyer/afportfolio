@@ -10,8 +10,8 @@ tags:
 - signage
 cover-image: "/uploads/Alizee-Freudenthal-CB2-Identity-Cover-1b8c3f.jpg"
 small-text: Branding
-description: "Re-design of the logotype \nand visual identity of the \nfamous furniture
-  brand.\nCompleted at [Mother Design.](http://www.motherdesign.com)"
+description: "Re-design of the logotype and visual identity \nof the famous furniture
+  brand.\nAgency: [Mother Design.](http://www.motherdesign.com)"
 order-id: CB2 Identity
 ---
 
