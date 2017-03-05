@@ -21,8 +21,7 @@ description: |-
   Art Direction and global identity for the former
   house of the Beat Generation in Greenwich Village,
   where Jack Kerouac penned "On The Road".
-  Completed at [Watson & Co](http://www.watsonnyc.com/).
-  Visit [marltonhotel.com](http://marltonhotel.com/)
+  Agency: [Watson & Co](http://www.watsonnyc.com/)  [Visit marltonhotel.com](http://marltonhotel.com/)
 order-id: Marlton Hotel
 ---
 
