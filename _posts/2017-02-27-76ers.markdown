@@ -12,8 +12,8 @@ tags:
 - sport branding
 cover-image: "/uploads/Alizee-Freudenthal-76ers-Since1776-Flag-Cover.jpg"
 small-text: Sport Campaign
-description: "Visual identity for the team's \n\"Since 1776\" Campaign.\nCompleted
-  at [Mother Design](http://www.motherdesign.com)."
+description: "Visual identity for the 2015 Philadelphia \nbasketball team’s campaign,
+  \"Since 1776\".\nCompleted at [Mother Design](http://www.motherdesign.com)."
 order-id: 76ers
 ---
 
