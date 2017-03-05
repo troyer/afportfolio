@@ -2,8 +2,9 @@
 title: CB2 x Kravitz Design
 date: 2017-02-28 21:48:00 Z
 cover-image: "/uploads/Alizee-Freudenthal-CB2-Kravitz-Design-Cover.jpg"
+small-text: Visual Identity
 description: "Branding of the collection born \nfrom a collaboration between CB2 \nand
-  Lenny Kravitz' design studio.\nCompleted at Mother Design."
+  Lenny Kravitz' design studio.\nCompleted at [Mother Design](http://www.motherdesign.com)."
 order-id: CB2 x Kravitz Design
 ---
 
