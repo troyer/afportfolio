@@ -16,8 +16,8 @@ tags:
 - stationery
 cover-image: "/uploads/Alizee-Freudenthal-MNZ-COVER-1bed9c.jpg"
 small-text: Fashion Branding
-description: "Logotype, visual identity and look book \ndesign for the designer store.\nS/S
-  2013 Lookbook:\nPhotography: [André Herrero](http://www.andreherrero.com/)\nStyling:
+description: "Logotype, branding and look book \ndesign for the New York designer
+  store.\nS/S 2013 Lookbook:\nPhotography: [André Herrero](http://www.andreherrero.com/)\nStyling:
   [Avena Gallagher](http://www.avenagallagher.com/)"
 order-id: 2-MNZ1
 ---
