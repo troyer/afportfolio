@@ -18,8 +18,9 @@ tags:
 - typography
 cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
 small-text: Branding, Art Direction & Tone Of Voice
-description: "Completed at [Watson & Co](http://www.watsonnyc.com/)\nFor [Ash New
-  York](http://ashnyc.com/)\nHotel Photography: Christian Harder \nCourtesy of ASH"
+description: "Art direction, voice and global identity \nof the first boutique hotel
+  in Providence.\nAgency: [Watson & Co](http://www.watsonnyc.com/)\nHotel Photography:
+  Christian Harder, Courtesy of ASH."
 order-id: 1-TheDean
 ---
 
