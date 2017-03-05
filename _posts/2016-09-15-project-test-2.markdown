@@ -12,7 +12,7 @@ tags:
 - sound design
 cover-image: "/uploads/Alizee-Freudenthal-SUNATA-cover.jpg"
 small-text: Logotype & Visual Identity
-description: "Logotype and visual identity \nfor the up-and-coming Parisian \nsound
+description: "Logotype and visual identity for the \nup-and-coming Parisian sound
   design studio.\n"
 order-id: Sunata
 layout: post
