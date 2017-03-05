@@ -8,7 +8,7 @@ tags:
 - furniture brand
 - modern together
 - signage
-cover-image: "/uploads/Alizee-Freudenthal-CB2-Identity-Cover.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-CB2-Identity-Cover-1b8c3f.jpg"
 small-text: Branding
 description: "Re-design of the furniture \nbrand's logotype and identity.\nCompleted
   at [Mother Design.](http://www.motherdesign.com)"
