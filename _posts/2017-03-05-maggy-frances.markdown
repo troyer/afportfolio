@@ -5,8 +5,8 @@ tags:
 - fashion
 - art direction
 cover-image: "/uploads/Alizee-Freudenthal-Maggy-Frances-Cover.jpg"
-description: "Art Direction for Fall/Winter 2012 \nand Spring Summer 2013 Collections.\nCompleted
-  at Watson & Co.\nPhotography: Adam Whitehead \nFrances Tulk Hart"
+description: "Art Direction for F/W 2012 \nand S/Summer 2013 Collections.\nCompleted
+  at Watson & Co.\nPhotography: Frances Tulk Hart\nAdam Whitehead \n"
 order-id: Maggy Frances
 ---
 
