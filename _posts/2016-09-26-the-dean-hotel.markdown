@@ -1,5 +1,5 @@
 ---
-title: The Dean Hotel
+title: The Dean
 date: 2016-09-26 15:56:00 Z
 tags:
 - hotel
@@ -17,7 +17,7 @@ tags:
 - hotel identity
 - typography
 cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
-small-text: Branding, Art Direction & Tone Of Voice
+small-text: Hotel Branding, Art Direction & Tone Of Voice
 description: "Art direction, voice and global identity \nof the first boutique hotel
   in Providence.\nAgency: [Watson & Co](http://www.watsonnyc.com/)\nHotel Pictures:
   Christian Harder, Courtesy of ASH."
