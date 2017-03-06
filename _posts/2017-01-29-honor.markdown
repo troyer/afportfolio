@@ -20,7 +20,7 @@ small-text: 'Printed Invite & E-Commerce '
 description: |-
   Printed invite for the Fall 2014 Fashion Show
   <br>and E-Commerce design of the luxury brand.
-  <br>Agency: [High Tide](http://www.hightidenyc.com/)   [Visit honornyc.com](honornyc.com)
+  <br>Agency: [High Tide](http://www.hightidenyc.com/) — [Visit honornyc.com](honornyc.com)
   <br>Pictures: Courtesy of High Tide.
 order-id: Honor
 Field name: 
