@@ -5,7 +5,7 @@
 
 .bg-black { background: #000; }
 .bg-white { background: #fff; }
-.bg-white-7 { background-color: rgba(255, 255, 255, 0.7) };
+.bg-white-95 { background-color: rgba(255, 255, 255, 0.95) };
 
 
 .white { color: #fff; }
@@ -39,6 +39,8 @@
 .w-20 { width: 20rem; }
 .w-30 { width: 30rem; }
 
+.h-0 { height:0rem; }
+.h-auto { height: auto; }
 .h-05 { height:.5rem; }
 
 .w-grid { min-width: calc((100% / 3) - (6rem / 3)); }
@@ -57,9 +59,11 @@
 .relative { position: relative; }
 .fixed { position: fixed; }
 
-.bump { transform: transateY(2px); }
+.bump { line-height: 0; }
 
 .overflow-hidden {
+  height: 100%;
+  position: relative;
   overflow: hidden;
 }
 .overflow-scroll { overflow: scroll; }
@@ -283,6 +287,7 @@
 .pb025 { padding-bottom: .25rem; }
 .pb05 { padding-bottom: .5rem; }
 .pb1 { padding-bottom: 1rem; }
+.pb15 { padding-bottom: 1.5rem; }
 .pb2 { padding-bottom: 2rem; }
 .pb3 { padding-bottom: 3rem; }
 .pb4 { padding-bottom: 4rem; }
@@ -319,6 +324,7 @@
 .mb025 { margin-bottom: .25rem; }
 .mb05 { margin-bottom: .5rem; }
 .mb1 { margin-bottom: 1rem; }
+.mb15 { margin-bottom: 1.5rem; }
 .mb2 { margin-bottom: 2rem; }
 .mb3 { margin-bottom: 3rem; }
 .mb4 { margin-bottom: 4rem; }
@@ -348,3 +354,7 @@
 .flex-row { flex-direction: row; }
 .flex-wrap { flex-wrap: wrap }
 .flex-grow { flex-grow: 1; }
+
+.dn { display: none; }
+
+br { display: none; }

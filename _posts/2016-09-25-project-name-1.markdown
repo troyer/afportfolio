@@ -1,11 +1,18 @@
 ---
-title: Project Name 1
+title: Same
 date: 2016-09-25 04:26:00 Z
-small-text: test text
-cover-image: "/uploads/project4.jpg"
-order-id: project-id-3
+tags:
+- Identity
+- logotype
+- typography
+- architecture
+- french architects
+- paris
+cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
+small-text: Logotype & Visual Identity
+description: "Visual identity for a new up-and-coming \n<br>architecture studio in
+  Paris."
+order-id: Same
 ---
 
-![project4.jpg](/uploads/project4.jpg)
-![project4.jpg](/uploads/project4.jpg)
-![project4.jpg](/uploads/project4.jpg)
+![Alizee-Freudenthal-SAME-1.jpg](/uploads/Alizee-Freudenthal-SAME-1.jpg)![Alizee-Freudenthal-SAME-2.jpg](/uploads/Alizee-Freudenthal-SAME-2.jpg)![Alizee-Freudenthal-SAME-3.jpg](/uploads/Alizee-Freudenthal-SAME-3.jpg)![Alizee-Freudenthal-SAME-5.jpg](/uploads/Alizee-Freudenthal-SAME-5.jpg)

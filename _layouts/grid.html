@@ -16,18 +16,18 @@
         <div class="flex flex-row flex-wrap">
           {% for number in site.project-order %}
             {% for post in site.posts %}
-              {% if post.order-id == {{number}} %}
+              {% if post.order-id == number %}
                 <div class="w-grid-m mr1 ml1 flex-grow pb3">
                   <div class="w-15-m center">
                   <a href="{{ post.url }}" class="relative block mt025 projectbtn">
                       <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
-                      <div class="overlay bg-white-7">
-                          <h1 class="h1 fw-700 sans-serif black tc relative vc">+ See More</h1>
+                      <div class="overlay h4 bg-white-95 tc">
+                        <div class="relative vc pa2">
+                          <h1 class="h2 black mb1">{{ post.title }}</h1>
+                          <h2 class="h4 black sans-serif lh-13 fw-600 smaller">{{ post.small-text }}</h2>
+                        </div>
                       </div>
                   </a>
-                  <div class="pt05">
-                    <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left projectbtn">{{ post.title }}</a>
-                  </div>
                   </div>
                 </div>
               {% endif %}

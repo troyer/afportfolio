@@ -1,25 +1,27 @@
 ---
-title: The Dean Hotel
+title: The Dean
 date: 2016-09-26 15:56:00 Z
 tags:
 - hotel
 - branding
-cover-image: "/uploads/16027_press_watson_no2_3-25-1617772_EM_EDIT-1600-160x272x1609x832_q85.jpg"
-small-text: Hotel Branding
-description: |-
-  Completed at [Watson & Co](http://www.watsonnyc.com/)
-  For [Ash New York](http://ashnyc.com/)
+- hotel branding
+- boutique hotel
+- providence
+- ash
+- will cooper
+- ari heckman
+- watson & co
+- logotype
+- mural
+- signage
+- hotel identity
+- typography
+cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
+small-text: Hotel Branding, Art Direction, Tone Of Voice
+description: "Art direction, voice and global identity \n<br>of the first boutique
+  hotel in Providence.\n<br>Agency: [Watson & Co](http://www.watsonnyc.com/)\n<br>Hotel
+  Pictures: Christian Harder, Courtesy of ASH."
 order-id: 1-TheDean
 ---
 
-![16012_press_watson_1-10-16_122_EM_EDIT-1600-0x0x2100x1307_q85.jpg](/uploads/16012_press_watson_1-10-16_122_EM_EDIT-1600-0x0x2100x1307_q85.jpg)
-![16027_press_watson_no2_3-25-1617772_EM_EDIT-1600-160x272x1609x832_q85.jpg](/uploads/16027_press_watson_no2_3-25-1617772_EM_EDIT-1600-160x272x1609x832_q85.jpg)
-![16012_press_watson_1-10-16_111_EM_EDIT--1600-0x0x2000x1248_q85.jpg](/uploads/16012_press_watson_1-10-16_111_EM_EDIT--1600-0x0x2000x1248_q85.jpg)
-![16012_press_watson_1-10-16_120_EM_EDIT-1600-119x0x2027x1095_q85.jpg](/uploads/16012_press_watson_1-10-16_120_EM_EDIT-1600-119x0x2027x1095_q85.jpg)
-![Screen Shot 2016-09-09 at 5.03.22 PM.png](/uploads/Screen%20Shot%202016-09-09%20at%205.03.22%20PM.png)
-![Screen Shot 2016-09-09 at 5.03.11 PM-c6cbed.png](/uploads/Screen%20Shot%202016-09-09%20at%205.03.11%20PM-c6cbed.png)
-![the_dean_umbrella-1600-0x0x1680x1120_q85.jpg](/uploads/the_dean_umbrella-1600-0x0x1680x1120_q85.jpg)
-![Screen Shot 2016-09-09 at 5.02.24 PM.png](/uploads/Screen%20Shot%202016-09-09%20at%205.02.24%20PM.png)
-![CH_TheDean_R2_664-1600-0x761x2040x1154_q85.jpg](/uploads/CH_TheDean_R2_664-1600-0x761x2040x1154_q85.jpg)
-![THEDEAN_SIGNAGE-1600-0x0x3000x1884_q85.jpg](/uploads/THEDEAN_SIGNAGE-1600-0x0x3000x1884_q85.jpg)
-Photo Courtesy of Watson & Co
+![AlizeeFreudenthal-TheDean-1.jpg](/uploads/AlizeeFreudenthal-TheDean-1.jpg)![AlizeeFreudenthal-TheDean-2.jpg](/uploads/AlizeeFreudenthal-TheDean-2.jpg)![AlizeeFreudenthal-TheDean-3.jpg](/uploads/AlizeeFreudenthal-TheDean-3.jpg)![AlizeeFreudenthal-TheDean-5.jpg](/uploads/AlizeeFreudenthal-TheDean-5.jpg)![AlizeeFreudenthal-TheDean-4.jpg](/uploads/AlizeeFreudenthal-TheDean-4.jpg)![AlizeeFreudenthal-TheDean-7.jpg](/uploads/AlizeeFreudenthal-TheDean-7.jpg)![AlizeeFreudenthal-TheDean-6.jpg](/uploads/AlizeeFreudenthal-TheDean-6.jpg)![AlizeeFreudenthal-TheDean-11.jpg](/uploads/AlizeeFreudenthal-TheDean-11.jpg)![AlizeeFreudenthal-TheDean-12.jpg](/uploads/AlizeeFreudenthal-TheDean-12.jpg)![AlizeeFreudenthal-TheDean-22.jpg](/uploads/AlizeeFreudenthal-TheDean-22.jpg)![AlizeeFreudenthal-TheDean-16.jpg](/uploads/AlizeeFreudenthal-TheDean-16.jpg)![AlizeeFreudenthal-TheDean-13-d32806.jpg](/uploads/AlizeeFreudenthal-TheDean-13-d32806.jpg)![AlizeeFreudenthal-TheDean-24.jpg](/uploads/AlizeeFreudenthal-TheDean-24.jpg)![AlizeeFreudenthal-TheDean-23.jpg](/uploads/AlizeeFreudenthal-TheDean-23.jpg)![AlizeeFreudenthal-TheDean-20.jpg](/uploads/AlizeeFreudenthal-TheDean-20.jpg)

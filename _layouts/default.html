@@ -16,21 +16,17 @@
     {% for number in site.project-order %}
       {% assign order_forloop = forloop %}
       {% for post in site.posts %}
-        {% if post.order-id == {{number}} %}
-          <div class="pb4">
-            <div class="h5 sans-serif fw-700"> {% if order_forloop.index < 10 %}0{% endif %}{{ order_forloop.index }}</div>
+        {% if post.order-id == number %}
+          <div class="pb2 pb4-s">
             <a href="{{ post.url }}" class="relative block mt025 projectbtn">
                 <img src="{{ post.cover-image }}" class="w-100 dim bg-white block" />
-                <div class="overlay bg-white-7">
-                    <h1 class="h1 fw-700 sans-serif black tc relative vc">+ See More</h1>
+                <div class="overlay bg-white-95 tc">
+                  <div class="relative vc pa2">
+                    <h1 class="h2 ha-s black mb15">{{ post.title }}</h1>
+                    <h2 class="h4 lh-13 black sans-serif fw-600 smaller-s">{{ post.small-text }}</h2>
+                  </div>
                 </div>
             </a>
-            <div class="pt05">
-              <a href="{{ post.url }}" class="link dim h4 white fw-700 sans-serif left projectbtn">{{ post.title }}</a>
-              <div class="h4 right">
-                {{post.small-text}}
-              </div>
-            </div>
           </div>
         {% endif %}
       {% endfor %}

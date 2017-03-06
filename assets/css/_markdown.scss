@@ -7,6 +7,13 @@ a {
   transition: color .15s ease-in, opacity .15s ease-in;
 }
 
+em {
+  font-style: italic;
+}
+strong {
+  font-weight: bold;
+}
+
 a:link,
 a:visited {
   transition: color .15s ease-in;
@@ -32,7 +39,8 @@ p {
 
 code {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 700;
+  font-size: .9em;
+  font-weight: 600;
 }
 
 img {
@@ -40,7 +48,13 @@ img {
   margin-bottom: 1.5rem;
 }
 
-h1 { font-size: 1.5rem; }
+h1 {
+  //font-size set in breakpoints
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+  line-height: 1.15
+ }
 h2 { font-size: .75rem; }
 h3 {
   font-size: 1rem;
