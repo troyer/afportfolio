@@ -10,8 +10,8 @@ tags:
 - fashion website
 cover-image: "/uploads/Alizee-Freudenthal-The-New-World-Order-Cover.jpg"
 small-text: Fashion E-Commerce
-description: "Identity and design of the high end\n<br>vintage fashion E-Commerce.
-  \n<br>Visit [thenewworldordernyc.com](http://thenewworldordernyc.com/)"
+description: "Identity and design of the high end fashion \n<br>and vintage E-Commerce
+  platform. \n<br>Visit [thenewworldordernyc.com](http://thenewworldordernyc.com/)"
 order-id: NWO
 ---
 
