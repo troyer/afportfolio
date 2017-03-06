@@ -19,7 +19,7 @@ cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-dff3fe.jpg"
 small-text: Editorial Design
 description: "Art Direction & Design of the Dance issue. \n<br>Completed while a Residency
   at [Fabrica](http://www.fabrica.it/?lang=en_us).\n<br>Creative Director: Erik Ravelo,
-  Co-Art Director: \n<br>Magdalena Czarnecki, Designer: Emmanuel Plougoulm, \n<br>Photographers:
+  Co-Art Director: \n<br>Magdalena Czarnecki, Designer: Emmanuel Plougoulm, Photographers:
   Laia Abril, Chris Saunders.\n\n\n"
 order-id: Colors Dance
 layout: post
