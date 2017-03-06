@@ -17,9 +17,9 @@ tags:
 - typography
 cover-image: "/uploads/Alizee-Freudenthal-Honor-Invite-Cover.jpg"
 small-text: 'Printed Invite & E-Commerce '
-description: "Printed invite for the Fall 2014 Fashion Show \nand E-Commerce design
-  of the luxury brand. \nAgency: [High Tide](http://www.hightidenyc.com/)   [Visit
-  honornyc.com](honornyc.com)\nPictures: Courtesy of High Tide."
+description: "Printed invite for the Fall 2014 Fashion Show \n<br>and E-Commerce design
+  of the luxury brand. \n<br>Agency: [High Tide](http://www.hightidenyc.com/)   [Visit
+  honornyc.com](honornyc.com)\n<br>Pictures: Courtesy of High Tide."
 order-id: Honor
 Field name: 
 ---
