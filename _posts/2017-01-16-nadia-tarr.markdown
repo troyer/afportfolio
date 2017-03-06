@@ -19,8 +19,8 @@ cover-image: "/uploads/AlizeeFreudenthal-NadiaTarr-ArtDirection-Winter01-COVER-2
 small-text: 'Fashion Art Direction, Branding & E-Commerce
 
 '
-description: "Branding, Art Direction and E-Commerce \ndesign for the Red Hook based
-  fashion brand. \nAgency: [Watson & Co](http://www.watsonnyc.com/).\nPhotography:
+description: "Branding, Art Direction and E-Commerce \n<br>design for the Red Hook
+  based fashion brand. \n<br>Agency: [Watson & Co](http://www.watsonnyc.com/).\n<br>Photography:
   Sarra Fleur, Jeremy Liebman, \nHans Neumann."
 order-id: NadiaTarr
 ---
