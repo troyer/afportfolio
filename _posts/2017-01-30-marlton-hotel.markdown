@@ -1,5 +1,5 @@
 ---
-title: Marlton Hotel
+title: The Marlton
 date: 2017-01-30 03:44:00 Z
 tags:
 - hotel
