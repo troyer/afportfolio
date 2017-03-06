@@ -10,7 +10,8 @@ tags:
 - paris
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Logotype & Visual Identity
-description: "Visual identity for a new up-and-coming \narchitecture studio in Paris."
+description: "Visual identity for a new up-and-coming \n<br>architecture studio in
+  Paris."
 order-id: Same
 ---
 
