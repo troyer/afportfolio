@@ -16,7 +16,7 @@ tags:
 - yellow pages
 - dance
 cover-image: "/uploads/Alizee-Freudenthal-Colors-Magazine-Cover-dff3fe.jpg"
-small-text: Editorial Design & Art Direction
+small-text: Editorial Design
 description: "Art Direction & Design of the Dance issue. \n<br>Completed while a Residency
   at [Fabrica](http://www.fabrica.it/?lang=en_us).\n<br>Creative Director: Erik Ravelo,
   Co-Art Director: \n<br>Magdalena Czarnecki, Designer: Emmanuel Plougoulm, \n<br>Photographers:
