@@ -6,9 +6,10 @@ layout: page
 
 # [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
 
-# —
 
-# Words by [Kingston Trinder](http://www.kingstontrinder.com/).
+# *Words by [Kingston Trinder](http://www.kingstontrinder.com/).*
+
+# —
 
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey, magnifique France.
 
