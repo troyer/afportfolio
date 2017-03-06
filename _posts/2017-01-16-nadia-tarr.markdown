@@ -21,7 +21,7 @@ small-text: 'Fashion Art Direction, Branding & E-Commerce
 '
 description: "Branding, Art Direction and E-Commerce \n<br>design for the Red Hook
   based fashion brand. \n<br>Agency: [Watson & Co](http://www.watsonnyc.com/).\n<br>Photography:
-  Sarra Fleur, Jeremy Liebman, \nHans Neumann."
+  Sarra Fleur, Jeremy Liebman, \n<br>Hans Neumann."
 order-id: NadiaTarr
 ---
 
