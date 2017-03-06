@@ -8,7 +8,7 @@ layout: page
 
 # —
 
-# *Words by [KINGSTON TRINDER](http://www.kingstontrinder.com/).*
+# *Words by [Kingston Trinder](http://www.kingstontrinder.com/).*
 
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal <br>is an awarded-designer from that faraway land of croissant and honey, <br>magnifique France.
 
