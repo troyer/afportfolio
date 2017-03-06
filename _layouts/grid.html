@@ -16,7 +16,7 @@
         <div class="flex flex-row flex-wrap">
           {% for number in site.project-order %}
             {% for post in site.posts %}
-              {% if post.order-id == {{number}} %}
+              {% if post.order-id == number %}
                 <div class="w-grid-m mr1 ml1 flex-grow pb3">
                   <div class="w-15-m center">
                   <a href="{{ post.url }}" class="relative block mt025 projectbtn">

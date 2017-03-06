@@ -57,7 +57,7 @@
 .relative { position: relative; }
 .fixed { position: fixed; }
 
-.bump { transform: transateY(2px); }
+.bump { line-height: 0; }
 
 .overflow-hidden {
   overflow: hidden;
@@ -349,3 +349,7 @@
 .flex-row { flex-direction: row; }
 .flex-wrap { flex-wrap: wrap }
 .flex-grow { flex-grow: 1; }
+
+.dn { display: none; }
+
+br { display: none; }
