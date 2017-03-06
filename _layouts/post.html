@@ -9,13 +9,13 @@ layout: default
 <div class="content-slide">
 
   <div class="border-top">
-    <div class="pt05 flex w-100">
+    <div class="pt05 pb05 flex w-100">
       <div class="flex-grow">
         <div class="pb025 h3 cf">
           <div class="smaller white fw-600 sans-serif left">{{ page.title }}</div>
         </div>
         {% capture description %}{{ page.description }}{% endcapture %}
-        <div class="description">
+        <div class="description pr2">
           <div class="markdown ws-prewrap">{{ description | markdownify }}</div>
         </div>
       </div>
