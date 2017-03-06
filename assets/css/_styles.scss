@@ -62,6 +62,8 @@
 .bump { line-height: 0; }
 
 .overflow-hidden {
+  height: 100%;
+  position: relative;
   overflow: hidden;
 }
 .overflow-scroll { overflow: scroll; }
