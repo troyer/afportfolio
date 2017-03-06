@@ -13,7 +13,7 @@ layout: default
       {% for number in site.project-order %}
           {% if page.order-id == {{number}} %}
             <div class="left">
-              <span class="h5 sans-serif fw-700"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+              <span class="h5 sans-serif fw-600"> {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
               {% if forloop.last %}
                 {% assign index-next = 0 %}
               {% else %}
@@ -34,7 +34,7 @@ layout: default
       </a>
     </div>
     <div class="pb025 pt025 h3 cf">
-      <div class="smaller white fw-700 sans-serif left">{{ page.title }}</div>
+      <div class="smaller white fw-600 sans-serif left">{{ page.title }}</div>
       <div class="h4 right">
         {{page.small-text}}
       </div>

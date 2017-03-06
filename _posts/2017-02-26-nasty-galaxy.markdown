@@ -1,5 +1,5 @@
 ---
-title: Nasty Galaxy
+title: Nasty Galaxy<br>by Sophia Amoruso
 date: 2017-02-26 22:53:00 Z
 tags:
 - sophia amoruso
