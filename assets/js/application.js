@@ -116,10 +116,12 @@ jQuery(document).ready(function() {
 		if ( isOverlay ){
 			$( "#index-container" ).addClass( "scale-08" );
 			$( "body" ).addClass( "overflow-hidden" );
+			$( "html" ).addClass( "overflow-hidden" );
 			$( '#ajax' ).addClass( "h-auto" );
 		} else {
 			$( "#index-container" ).removeClass( "scale-08" );
 			$( "body" ).removeClass( "overflow-hidden" );
+			$( "html" ).removeClass( "overflow-hidden" );
 			$( '#ajax' ).addClass( "h-0" );
 		}
 	}
