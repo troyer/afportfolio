@@ -115,11 +115,13 @@ jQuery(document).ready(function() {
 	function toggleOverlay() {
 		if ( isOverlay ){
 			$( "#index-container" ).addClass( "scale-08" );
-			$( "body" ).addClass( "overflow-hidden" );
+			$( "body" ).addClass( "overflow-hide" );
+			$( "html" ).addClass( "overflow-hidden" );
 			$( '#ajax' ).addClass( "h-auto" );
 		} else {
 			$( "#index-container" ).removeClass( "scale-08" );
-			$( "body" ).removeClass( "overflow-hidden" );
+			$( "body" ).removeClass( "overflow-hide" );
+			$( "html" ).removeClass( "overflow-hidden" );
 			$( '#ajax' ).addClass( "h-0" );
 		}
 	}
