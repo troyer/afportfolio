@@ -16,8 +16,8 @@ tags:
 cover-image: "/uploads/Alizee-Freudenthal-Nasty-Galaxy-COVER-5d6391.jpg"
 small-text: Book Design <br>for Sophia Amoruso
 description: "Art direction & design for New York Times best seller \n<br>author and
-  founder of Nasty Gal, Sophia Amoruso. \n<br> Publisher: Penguin Random House.\n<br>Agency:
-  [Mother Design](http://www.motherdesign.com)."
+  founder of Nasty Gal, Sophia Amoruso. \n<br>Agency: [Mother Design](http://www.motherdesign.com).\n<br>
+  Publisher: Penguin Random House."
 order-id: Nasty Galaxy
 ---
 
