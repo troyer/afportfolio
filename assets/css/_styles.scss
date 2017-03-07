@@ -63,10 +63,14 @@
 
 .overflow-hidden {
   height: 100%;
+  width: 100%;
   position: relative;
   overflow: hidden;
 }
-.overflow-scroll { overflow: scroll; }
+.overflow-scroll {
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+}
 
 .t-0 { top: 0; }
 .r-0 { right: 0; }
