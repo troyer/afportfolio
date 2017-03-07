@@ -18,4 +18,4 @@ layout: page
 
 # Labouring then for several renowned agencies such as [*Mother Design*](http://www.motherdesign.com/), <br>[*Watson & Co.*](http://www.watsonnyc.com/), [*Be-Pôles*](http://be-poles.com/en/), [*2x4*](http://2x4.org/), and [*Pentagram*](http://www.pentagram.com/#/home), Alizée is now freelancing wherever she may, all across Gotham City, and abroad. When not lost deep in the wonderful worlds of grids, kerns and Pantones, Alizée spends many a long hour wondering over the minutiae of human relationships and the forever pleasures of travel, experimenting with her crockpots, and examining the nomadic culture of the Tzigane, or lesser-known eastern European gypsy.
 
-# Despite her most gallant efforts, Alizée’s Parisian tongue cannot quite yet <br>stay in her pocket. For she suffers over pronouncing that most indispensable of English words; the skewer.
+# Despite her most gallant efforts, Alizée’s Parisian tongue cannot quite yet <br>stay in her pocket. For she suffers over pronouncing that most indispensable <br>of English words; the skewer.
