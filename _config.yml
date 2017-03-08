@@ -15,10 +15,10 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    cover-image: 
-    small-text: 
-    description: 
-    order-id: 
+    cover-image:
+    small-text:
+    description:
+    order-id:
 - scope:
     path: ''
     type: pages
@@ -28,9 +28,9 @@ author: Alizée Freudenthal
 sass:
   sass_dir: assets/css
 permalink: pretty
-description: 'is a french art director and graphic designer <br> based in New York
-  City, available for collaborations <br> here, there and everywhere.  '
-keywords: 
+description: 'is a french art director and graphic designer <br>based in New York
+  City, available for collaborations <br>here, there and everywhere.'
+keywords:
 project-order:
 - Nasty Galaxy
 - 1-TheDean
