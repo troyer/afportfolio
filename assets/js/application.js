@@ -53,7 +53,6 @@ jQuery(document).ready(function() {
 
 			switch(slideDirection) {
 		    case "bottom":
-					console.log('ping');
 					$(".content-slide").css({"animation":"slide-bottom .35s"});
 		      break;
 		    case "left":
@@ -79,21 +78,18 @@ jQuery(document).ready(function() {
 
 		function checkDirection() {
 		$('.projectbtn').click(function() {
-			console.log("bottom");
 			slideDirection = "bottom";
 			$('.ajax').hide();
 			$('.ajax').fadeIn(300);
 		});
 
 		$('.pagebtn').click(function() {
-			console.log("bottom");
 			slideDirection = "bottom";
 			$('.ajax').hide();
 			$('.ajax').fadeIn(300);
 		});
 
 		$('.prevbtn').click(function() {
-			console.log("left");
 			slideDirection = "left";
 		});
 
@@ -125,6 +121,4 @@ jQuery(document).ready(function() {
 			$( '#ajax' ).addClass( "h-0" );
 		}
 	}
-
-
 });
