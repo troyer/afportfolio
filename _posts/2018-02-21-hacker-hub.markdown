@@ -1,0 +1,11 @@
+---
+title: Hacker Hub
+date: 2018-02-21 23:48:00 Z
+cover-image: "/uploads/HackerHub-Alizee-Freudenthal-Cover-Web.jpg"
+small-text: Visual identity for a tech learning center in San Fransisco
+description: Visual identity for a technology training hub for youth in the Bay Area
+  of San Fransisco. In collaboration with [Creative Without Borders](https://www.creativeswithoutborders.org/).
+order-id: Hacker Hub
+---
+
+![HackerHub-Alizee-Freudenthal-LockUp.gif](/uploads/HackerHub-Alizee-Freudenthal-LockUp.gif)![HackerHub-Alizee-Freudenthal-Stationery.jpg](/uploads/HackerHub-Alizee-Freudenthal-Stationery.jpg)![HackerHub-Alizee-Freudenthal-Eyes.gif](/uploads/HackerHub-Alizee-Freudenthal-Eyes.gif)![HackerHub-Alizee-Freudenthal-Flyer-1de4f1.jpg](/uploads/HackerHub-Alizee-Freudenthal-Flyer-1de4f1.jpg)![HackerHub-Alizee-Freudenthal-Patterns.gif](/uploads/HackerHub-Alizee-Freudenthal-Patterns.gif)![HackerHub-Alizee-Freudenthal-Space.jpg](/uploads/HackerHub-Alizee-Freudenthal-Space.jpg)![HackerHub-Alizee-Freudenthal-T-Shirt.jpg](/uploads/HackerHub-Alizee-Freudenthal-T-Shirt.jpg)
