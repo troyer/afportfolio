@@ -15,6 +15,6 @@ order-id: Hacker Hub
 <div style="padding:60% 0 0 0;position:relative;margin-bottom:1.5rem;pointer-events:none;overflow: hidden;">
 <div style="position:absolute;top:-50px;left:0;width:100%;height:calc(100% + 100px);pointer-events: none;">
 <iframe
-style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;" src="https://www.youtube.com/embed/dC9xJhjz7eM?controls=0&showinfo=0&rel=0&autoplay=1&loop=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
+style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;" src="https://www.youtube.com/embed/dC9xJhjz7eM?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=dC9xJhjz7eM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 ![HackerHub-Alizee-Freudenthal-Space.jpg](/uploads/HackerHub-Alizee-Freudenthal-Space.jpg)
 ![HackerHub-Alizee-Freudenthal-T-Shirt.jpg](/uploads/HackerHub-Alizee-Freudenthal-T-Shirt.jpg)
