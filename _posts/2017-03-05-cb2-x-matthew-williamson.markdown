@@ -1,7 +1,6 @@
 ---
 title: CB2 x Matthew Williamson
 date: 2017-03-05 17:03:00 Z
-published: false
 tags:
 - CB2
 - furniture brand
