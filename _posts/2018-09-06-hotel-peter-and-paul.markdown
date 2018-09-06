@@ -1,5 +1,5 @@
 ---
-title: Hotel Peter & Paul
+title: Hotel Peter and Paul
 date: 2018-09-06 14:11:00 Z
 tags:
 - typography
