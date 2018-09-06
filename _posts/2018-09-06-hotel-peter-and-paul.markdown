@@ -10,7 +10,7 @@ tags:
 - new orleans
 - ash nyc
 - hotel design
-cover-image: "/uploads/HOTEL-PETER&PAUL-COVER-LOGO.jpg"
+cover-image: "/uploads/HOTEL-PETER&PAUL-COVER-LOGO-86db69.jpg"
 small-text: Coming Soon
 order-id: Peter & Paul
 ---
