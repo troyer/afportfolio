@@ -12,14 +12,15 @@ tags:
 - hotel design
 cover-image: "/uploads/HOTEL-PETER&PAUL-COVER-LOGO-photo2.jpg"
 small-text: "Visual identity \n<br>for a new boutique hotel in New Orleans"
-description: |
+description: |+
   Before, a catholic church, school, rectory and convent; now a seventy one rooms hotel with a restaurant, bar, courtyard and an atypical event space, Hotel Peter & Paul opened its doors in 2018 in its beloved New Orleans’ neighborhood, the authentic Marigny.
-  <br>Visit [hotelpeterandpaul.com](https://hotelpeterandpaul.com/)
   <br>Design & Production Management: [Joe Henry Baker](https://www.joehenrybaker.com/)
   <br>Creative Writing: [Kingston Trinder](https://narwhalsguffaw.com/)
   <br>Hotel Photography: Courtesy of Hotel Peter & Paul / Christian Harder
   <br>Collateral Photography: [Marion Kotlarski](https://www.marionkotlarski.com/)
   <br>Client: [Ash](http://ashnyc.com/)
+  <br>Visit [hotelpeterandpaul.com](https://hotelpeterandpaul.com/)
+
 order-id: Peter & Paul
 ---
 
