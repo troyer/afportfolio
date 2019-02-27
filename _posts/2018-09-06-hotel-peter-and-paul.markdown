@@ -17,6 +17,8 @@ description: |
   <br>Visit [hotelpeterandpaul.com](https://hotelpeterandpaul.com/)
   <br>Design & Production Management: [Joe Henry Baker](https://www.joehenrybaker.com/)
   <br>Creative Writing: [Kingston Trinder](https://narwhalsguffaw.com/)
+  <br>Hotel Photography: Courtesy of Hotel Peter & Paul / Christian Harder
+  <br>Collateral Photography: [Marion Kotlarski](https://www.marionkotlarski.com/)
   <br>Client: [Ash](http://ashnyc.com/)
 order-id: Peter & Paul
 ---
