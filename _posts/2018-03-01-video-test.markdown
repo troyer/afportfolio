@@ -2,14 +2,14 @@
 title: Video Test
 date: 2018-03-01 14:11:00 Z
 tags:
-- typography
-- branding
-- boutique hotel
-- hotel branding
-- hotel identity
-- new orleans
-- ash nyc
-- hotel design
+  - typography
+  - branding
+  - boutique hotel
+  - hotel branding
+  - hotel identity
+  - new orleans
+  - ash nyc
+  - hotel design
 cover-image: "/uploads/1-HOTEL-PETER&PAUL-COVER-LOGO-photo-c73938.jpg"
 small-text: "Visual identity \n<br>for a new boutique hotel in New Orleans"
 description: |
@@ -30,3 +30,7 @@ order-id: video-test
 ![2-CH_Peter_And_Paul_New_Orleans_School_Exterior.jpg](/uploads/2-CH_Peter_And_Paul_New_Orleans_School_Exterior.jpg)
 
 {% include video-controls.html src="/uploads/IMG_7035.mp4" %}
+
+{% include vimeo.html src="70591644" width="16" height="9" %}
+
+{% include vimeo-controls.html src="70591644" width="16" height="9" %}
