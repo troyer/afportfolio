@@ -30,3 +30,7 @@ order-id: video-test
 ![2-CH_Peter_And_Paul_New_Orleans_School_Exterior.jpg](/uploads/2-CH_Peter_And_Paul_New_Orleans_School_Exterior.jpg)
 
 {% include video-controls.html src="/uploads/IMG_7035.mp4" %}
+
+{% include vimeo.html src="70591644" width="16" height="9" %}
+
+{% include vimeo-controls.html src="70591644" width="16" height="9" %}

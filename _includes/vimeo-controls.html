@@ -1,0 +1,16 @@
+<div
+  class="vimeo-video"
+  style="padding-bottom: {{
+    include.height | times: 100 | divided_by: include.width
+  }}%;"
+>
+  <iframe
+    src="https://player.vimeo.com/video/{{
+      include.src
+    }}?byline=0&title=0&color=fff"
+    frameborder="0"
+    webkitallowfullscreen
+    mozallowfullscreen
+    allowfullscreen
+  ></iframe>
+</div>
