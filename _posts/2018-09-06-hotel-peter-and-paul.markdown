@@ -17,6 +17,7 @@ description: |+
   <br>Client: [Ash](http://ashnyc.com/)
   <br>Design & Production Management: [Joe Henry Baker](https://www.joehenrybaker.com/)
   <br>Creative Writing: [Kingston Trinder](https://narwhalsguffaw.com/)
+  <br> Illustrations: [Perrine Grosjean](http://perrinegrosjean.fr/)
   <br>Hotel Photography: Courtesy of Hotel Peter & Paul
   <br>Collateral Photography: [Marion Kotlarski](https://www.marionkotlarski.com/)
   <br>Visit [hotelpeterandpaul.com](https://hotelpeterandpaul.com/)
