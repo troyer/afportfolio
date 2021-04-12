@@ -7,11 +7,11 @@ tags:
 - web
 - typography
 - preK.com
-cover-image: "/uploads/_DSC5368-2b.jpg"
+cover-image: "/uploads/prek-branding-cover.jpg"
 small-text: Logotype, visual identity and web design for a pre-school research platform
 description: 'PreK.com is an online platform facilitating pre-school search and booking
   in the US. '
 order-id: PreK
 ---
 
-![prek-logo-gif.gif](/uploads/prek-logo-gif.gif)![_DSC5360-2.jpg](/uploads/_DSC5360-2.jpg)![_DSC5382.jpg](/uploads/_DSC5382.jpg)![PREK-WEB.jpg](/uploads/PREK-WEB.jpg)
+![prek-logo-gif.gif](/uploads/prek-logo-gif.gif)![prek-branding-2.jpg](/uploads/prek-branding-2.jpg)![prek-branding-3.jpg](/uploads/prek-branding-3.jpg)![PREK-WEB.jpg](/uploads/PREK-WEB.jpg)
