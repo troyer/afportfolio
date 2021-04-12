@@ -1,6 +1,7 @@
 ---
 title: Maggy Frances
 date: 2017-03-05 18:33:00 Z
+published: false
 tags:
 - fashion
 - art direction
