@@ -1,6 +1,12 @@
 ---
 title: Wonder Corps
 date: 2021-04-12 16:40:00 Z
+tags:
+- logotype
+- wondercorps
+- branding
+- musicbranding
+- visual identity
 cover-image: "/uploads/Wondercorps-cover-image.jpg"
 small-text: Logotype and collateral design
 description: WonderCorps is a benefit corporation merging art, technology, mindfulness
