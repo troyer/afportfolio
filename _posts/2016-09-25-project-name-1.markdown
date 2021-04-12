@@ -9,8 +9,9 @@ tags:
 - french architects
 - paris
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
-small-text: Logotype & Visual Identity
-description: "Visual identity for an up-and-coming \n<br>architecture studio in Paris."
+small-text: Visual identity, collateral design and web design
+description: Visual identity, collateral design and web design for SAME architectes,
+  an up-and-coming architecture studio in Paris.
 order-id: Same
 ---
 
