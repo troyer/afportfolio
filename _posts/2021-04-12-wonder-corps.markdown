@@ -15,6 +15,6 @@ description: WonderCorps is a benefit corporation merging art, technology, mindf
 order-id: Wonder Corps
 ---
 
-![logo-WonderCorps-1e00d4.jpg](/uploads/logo-WonderCorps-1e00d4.jpg)![_DSC5343-crop-a0c663.jpg](/uploads/_DSC5343-crop-a0c663.jpg)![wondercorps-guidelines-AF.jpg](/uploads/wondercorps-guidelines-AF.jpg)![letterheads-WonderCorps-7396ac.jpg](/uploads/letterheads-WonderCorps-7396ac.jpg)![WC-website-images.jpg](/uploads/WC-website-images.jpg)![WC-website-images2.jpg](/uploads/WC-website-images2.jpg)![WC-website-images3.jpg](/uploads/WC-website-images3.jpg)![WC-website-images4.jpg](/uploads/WC-website-images4.jpg)
+![logo-WonderCorps-1e00d4.jpg](/uploads/logo-WonderCorps-1e00d4.jpg)![Wonder-corps-bc-logo-freudenthal.jpg](/uploads/Wonder-corps-bc-logo-freudenthal.jpg)[wondercorps-guidelines-AF.jpg](/uploads/wondercorps-guidelines-AF.jpg)![letterheads-WonderCorps-7396ac.jpg](/uploads/letterheads-WonderCorps-7396ac.jpg)![WC-website-images.jpg](/uploads/WC-website-images.jpg)![WC-website-images2.jpg](/uploads/WC-website-images2.jpg)![WC-website-images3.jpg](/uploads/WC-website-images3.jpg)![WC-website-images4.jpg](/uploads/WC-website-images4.jpg)
 
 Images above are for case study purposes only. 
