@@ -15,4 +15,4 @@ description: "Visual identity for a new up-and-coming \n<br>architecture studio 
 order-id: Same
 ---
 
-![Alizee-Freudenthal-SAME-1.jpg](/uploads/Alizee-Freudenthal-SAME-1.jpg)![Alizee-Freudenthal-SAME-2.jpg](/uploads/Alizee-Freudenthal-SAME-2.jpg)![Alizee-Freudenthal-SAME-3.jpg](/uploads/Alizee-Freudenthal-SAME-3.jpg)![Alizee-Freudenthal-SAME-5.jpg](/uploads/Alizee-Freudenthal-SAME-5.jpg)
+![Alizee-Freudenthal-SAME-1.jpg](/uploads/Alizee-Freudenthal-SAME-1.jpg)![_DSC5427.jpg](/uploads/_DSC5427.jpg)![_DSC5433.jpg](/uploads/_DSC5433.jpg)![Alizee-Freudenthal-SAME-3.jpg](/uploads/Alizee-Freudenthal-SAME-3.jpg)![Alizee-Freudenthal-SAME-5.jpg](/uploads/Alizee-Freudenthal-SAME-5.jpg)
