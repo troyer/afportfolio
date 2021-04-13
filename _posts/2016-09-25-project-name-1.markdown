@@ -15,4 +15,4 @@ description: Visual identity, collateral design and web design for SAME architec
 order-id: Same
 ---
 
-![Alizee-Freudenthal-SAME-1-263d4d.jpg](/uploads/Alizee-Freudenthal-SAME-1-263d4d.jpg)![_DSC5433.jpg](/uploads/_DSC5433.jpg)![_DSC5427.jpg](/uploads/_DSC5427.jpg)![Alizee-Freudenthal-SAME-5-7060e2.jpg](/uploads/Alizee-Freudenthal-SAME-5-7060e2.jpg)
+![Alizee-Freudenthal-SAME-1-263d4d.jpg](/uploads/Alizee-Freudenthal-SAME-1-263d4d.jpg)![Alizee-Freudenthal-SAME-7.jpg](/uploads/Alizee-Freudenthal-SAME-7.jpg)![Alizee-Freudenthal-SAME-6.jpg](/uploads/Alizee-Freudenthal-SAME-6.jpg)![Alizee-Freudenthal-SAME-5-7060e2.jpg](/uploads/Alizee-Freudenthal-SAME-5-7060e2.jpg)
