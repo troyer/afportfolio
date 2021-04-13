@@ -1,6 +1,14 @@
 ---
 title: Débuts — La revue
 date: 2021-04-13 14:11:00 Z
+tags:
+- editorial
+- editorial design
+- typography
+- litterature
+- literature
+- revue littéraire
+- magazine
 cover-image: "/uploads/DSC05990-crop.jpg"
 small-text: Literary magazine art direction & publishing
 description: Débuts is a bi-annual self-published literary review with author Mona
