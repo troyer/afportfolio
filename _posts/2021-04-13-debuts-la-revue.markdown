@@ -9,7 +9,7 @@ tags:
 - literature
 - revue littéraire
 - magazine
-cover-image: "/uploads/DSC05990-crop.jpg"
+cover-image: "/uploads/DEBUTS-COVER.jpg"
 small-text: Literary magazine art direction & publishing
 description: Débuts is a bi-annual self-published literary review with author Mona
   Messine, promoting unpublished authors along more notorious ones, asked to write
