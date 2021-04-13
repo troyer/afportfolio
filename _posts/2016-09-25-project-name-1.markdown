@@ -11,8 +11,10 @@ tags:
 - visual identity
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Visual identity, collateral design and web design
-description: Visual identity, collateral design and web design for SAME architectes,
-  an up-and-coming architecture studio in Paris.
+description: |-
+  Visual identity, collateral design and web design for SAME architectes, an up-and-coming architecture studio in Paris.
+
+  Visit [www.same-architectes.com](https://same-architectes.com/)
 order-id: Same
 ---
 
