@@ -8,6 +8,7 @@ tags:
 - architecture
 - french architects
 - paris
+- visual identity
 cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Visual identity, collateral design and web design
 description: Visual identity, collateral design and web design for SAME architectes,
