@@ -10,7 +10,7 @@ tags:
 cover-image: "/uploads/prek-branding-cover.jpg"
 small-text: Logotype, visual identity, web design
 description: "PreK.com is an online platform facilitating pre-school search and booking
-  in the US. \nWith the talented help of [Morgan Light](https://morganlight.com/).
+  in the US. \n<br>With the precious and talented help of [Morgan Light](https://morganlight.com/).
   \  "
 order-id: PreK
 ---
