@@ -1,5 +1,5 @@
 ---
-title: Same
+title: Same Architectes
 date: 2016-09-25 04:26:00 Z
 tags:
 - Identity
@@ -13,8 +13,8 @@ cover-image: "/uploads/Alizee-Freudenthal-SAME-COVER.jpg"
 small-text: Visual identity, collateral design and web design
 description: |-
   Visual identity, collateral design and web design for SAME architectes, an up-and-coming architecture studio in Paris.
-
-  Visit [www.same-architectes.com](https://same-architectes.com/)
+  <br>
+  <br>Visit [www.same-architectes.com](https://same-architectes.com/)
 order-id: Same
 ---
 
