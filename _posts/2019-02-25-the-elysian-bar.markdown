@@ -12,8 +12,8 @@ tags:
 cover-image: "/uploads/The-Elysian-Bar-Alizee-Freudenthal-Cover.jpg"
 small-text: Visual identity for Hotel Peter & Paul's restaurant
 description: "The Elysian bar is Hotel Peter & Paul's restaurant, bar and café, hosted
-  at the Rectory and managed by the famous New Orleans Bacchanal team. \n</br>\n</br>Assignment:
-  Logos, visual identity system, printed collateral, signage.\n</br>Bar picture by
+  at the Rectory and managed by the famous New Orleans Bacchanal team. \n<br>\n<br>Assignment:
+  Logos, visual identity system, printed collateral, signage.\n<br>Bar picture by
   François Halard."
 order-id: The Elysian Bar
 ---
