@@ -20,7 +20,8 @@ cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
 small-text: Hotel Branding, Art Direction, Voice
 description: "Design direction, naming, visual identity and creative writing  \n<br>of
   the first boutique hotel in Providence.\n<br>Agency: [Watson & Co](http://www.watsonnyc.com/)\n<br>Client:
-  ASH NYC\n<br>Hotel Pictures: Christian Harder, Courtesy of ASH."
+  ASH NYC\n<br>Hotel Pictures: Christian Harder, Courtesy of ASH.\n<br>\n<br>Visit
+  [thedeanhotel.com](https://thedeanhotel.com/)"
 order-id: 1-TheDean
 ---
 
