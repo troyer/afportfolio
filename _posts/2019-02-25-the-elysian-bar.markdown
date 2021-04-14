@@ -16,4 +16,4 @@ description: 'The Elysian bar is Hotel Peter & Paul''s restaurant, bar and café
 order-id: The Elysian Bar
 ---
 
-![The-Elysian-Bar-Alizee-Freudenthal-Packshot.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Packshot.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Postcard.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Postcard.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Business-card.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Business-card.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Signage-Menu.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Signage-Menu.jpg)
+![17-CH_Peter_And_Paul_New_Orleans_Rectory_Exterior.jpg](/uploads/17-CH_Peter_And_Paul_New_Orleans_Rectory_Exterior.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Packshot.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Packshot.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Postcard.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Postcard.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Business-card.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Business-card.jpg)![The-Elysian-Bar-Alizee-Freudenthal-Signage-Menu.jpg](/uploads/The-Elysian-Bar-Alizee-Freudenthal-Signage-Menu.jpg)
