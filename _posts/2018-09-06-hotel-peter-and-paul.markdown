@@ -17,7 +17,7 @@ description: |-
   <br>
   <br>Assignment: Naming, logos, visual identity system, concepting and design of printed and digital collateral, signage, website, editorial guidelines, creative writing.
   <br>
-  <br>Client: [Ash NYC](http://ashnyc.com/)
+  <br>Client: [Ash NYC](http://ashnyc.com/) & Nathalie Jordi
   <br>Design & production management: [Joe Henry Baker](https://www.joehenrybaker.com/)
   <br>Creative writing: [Kingston Trinder](https://narwhalsguffaw.com/) & Alizée Freudenthal
   <br> Illustrations: [Perrine Grosjean](http://perrinegrosjean.fr/)
