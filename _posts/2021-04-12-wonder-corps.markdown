@@ -9,9 +9,11 @@ tags:
 - visual identity
 cover-image: "/uploads/Wondercorps-cover-image.jpg"
 small-text: Logotype and collateral design
-description: WonderCorps is a benefit corporation merging art, technology, mindfulness
+description: 'WonderCorps is a benefit corporation merging art, technology, mindfulness
   and wonder to bring artists, fans, and collectors together to discover, document,
-  engage, and celebrate music, art and the culture that surrounds them.
+  engage, and celebrate music, art and the culture that surrounds them. (*wondercorpsgroup.com*)
+
+'
 order-id: Wonder Corps
 ---
 
