@@ -12,7 +12,7 @@ tags:
 cover-image: "/uploads/DEBUTS-COVER.jpg"
 small-text: Literary magazine art direction & publishing
 description: |-
-  Débuts is a bi-annual self-published literary review with author Mona Messine, promoting unpublished authors along more notorious ones, asked to write about debuts and beginnings.
+  Débuts is a bi-annual self-published literary review in collaboration with author Mona Messine, promoting unpublished authors along more notorious ones, asked to write about debuts and beginnings.
   #
   Visit [debuts.co](http://debuts.co)
 order-id: Débuts — La revue
