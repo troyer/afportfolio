@@ -9,3 +9,6 @@ description: "Full case study COMING SOON.\n\nGlobal rebranding for architecture
 order-id: ASH NYC
 ---
 
+![ASH-NYC-Logo-Cover-01.jpg](/uploads/ASH-NYC-Logo-Cover-01.jpg)
+
+{% include vimeo-controls.html src="538701034" width="16" height="9" %}
