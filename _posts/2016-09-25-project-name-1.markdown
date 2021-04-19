@@ -15,7 +15,7 @@ description: |-
   Visual identity, collateral design and web design for SAME architectes, an up-and-coming architecture studio in Paris.
   <br>
   <br>Visit [www.same-architectes.com](https://same-architectes.com/)
-order-id: Same
+order-id: Same Architectes
 ---
 
 ![Alizee-Freudenthal-SAME-1-263d4d.jpg](/uploads/Alizee-Freudenthal-SAME-1-263d4d.jpg)![Alizee-Freudenthal-SAME-7.jpg](/uploads/Alizee-Freudenthal-SAME-7.jpg)![Alizee-Freudenthal-SAME-6.jpg](/uploads/Alizee-Freudenthal-SAME-6.jpg)
