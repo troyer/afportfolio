@@ -4,8 +4,9 @@ date: 2021-11-04 16:33:00 Z
 cover-image: "/uploads/Hotel-du-Sentier-Alizee-Freudenthal-Cover.jpg"
 small-text: Visual identity, signage, web design, copywriting
 description: "Full brand identity for Hôtel du Sentier.<br> \nVisit [www.hoteldusentier.com](https://www.hoteldusentier.com/)<br>\n\nSign
-  painting : [Pierre Feuille Pinceau](https://www.instagram.com/pierre_feuille_pinceau/)<br>\nCollateral
-  and signage photography : Bastien Rossi\nHotel photography : Philippe Garcia"
+  painting : [Pierre Feuille Pinceau](https://www.instagram.com/pierre_feuille_pinceau/)<br>\nWeb
+  development : Tom Royer\nCollateral and signage photography : Bastien Rossi\nHotel
+  photography : Philippe Garcia"
 order-id: Hotel du Sentier
 ---
 
