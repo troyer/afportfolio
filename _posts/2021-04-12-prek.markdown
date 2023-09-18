@@ -7,7 +7,7 @@ tags:
 - web
 - typography
 - preK.com
-cover-image: "/uploads/prek-branding-cover.jpg"
+cover-image: "/uploads/prek-logo-gif.gif"
 small-text: Logotype, visual identity, web design
 description: "PreK.com is an online platform facilitating pre-school search and booking
   in the US. \n<br>Project made with the precious and talented help of [Morgan Light](https://morganlight.com/).
