@@ -1,6 +1,7 @@
 ---
 title: Maryam Nassir Zadeh
 date: 2016-09-25 04:27:00 Z
+published: false
 tags:
 - Identity
 - branding
