@@ -1,6 +1,7 @@
 ---
 title: Nadia Tarr
 date: 2017-01-16 22:06:00 Z
+published: false
 tags:
 - fashion
 - fashion e-commerce
