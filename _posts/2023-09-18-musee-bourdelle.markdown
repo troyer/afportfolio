@@ -2,7 +2,7 @@
 title: Musée Bourdelle
 date: 2023-09-18 12:31:00 Z
 cover-image: "/uploads/MuseeBourdelle-Logo-Enseignes-AlizeeFreudenthal-LR.png"
-small-text: New logotype and visual identity for a Parisian museum
+small-text: New logotype and visual identity for the Parisian museum
 description: Case study in progress
 order-id: Musee Bourdelle
 ---
