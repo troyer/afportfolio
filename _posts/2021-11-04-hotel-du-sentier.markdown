@@ -1,7 +1,7 @@
 ---
 title: Hôtel du Sentier
 date: 2021-11-04 16:33:00 Z
-cover-image: "/uploads/Hotel-du-Sentier-Alizee-Freudenthal5.png"
+cover-image: "/uploads/HDS%20x%20Janvier%202023%20x%20A7401146.jpg"
 small-text: Visual identity, signage, web design, copywriting
 description: "Full brand identity for Hôtel du Sentier.<br> \nVisit [www.hoteldusentier.com](https://www.hoteldusentier.com/)<br>\n<br>\nSign
   painting : [Pierre Feuille Pinceau](https://www.instagram.com/pierre_feuille_pinceau/)<br>\nWeb
