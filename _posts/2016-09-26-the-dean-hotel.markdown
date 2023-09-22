@@ -16,7 +16,7 @@ tags:
 - signage
 - hotel identity
 - typography
-cover-image: "/uploads/AlizeeFreudenthal-TheDean-COVER-4943c8.jpg"
+cover-image: "/uploads/AlizeeFreudenthal-TheDean-Brass-Logo.jpg"
 small-text: Hotel Branding, Art Direction, Voice
 description: "Design direction, naming, visual identity and creative writing  \n<br>of
   the first boutique hotel in Providence.\n<br>Agency: [Watson & Co](http://www.watsonnyc.com/)\n<br>Client:
