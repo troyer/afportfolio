@@ -4,11 +4,11 @@ date: 2023-09-22 16:18:00 Z
 cover-image: "/uploads/AE_Thor%20Heyerdahl%20Voyages%20of%20the%20Sun_GIF_BLACK.gif"
 small-text: Book art direction and design
 description: |-
-  [Atelier Editions](https://atelier-editions.com/) photography and archives book about the Norwegian explorer Thor Heyerdahl.
+  [Atelier Editions'](https://atelier-editions.com/) photography and archives book about the Norwegian explorer Thor Heyerdahl.<br>
 
-  Texts by Kingston Trinder
-  Essays by Sonia Haoa-Cardinali and Atholl Anderson
-  Epilogue by Sylvia Earle
+  Texts by Kingston Trinder<br>
+  Essays by Sonia Haoa-Cardinali and Atholl Anderson<br>
+  Epilogue by Sylvia Earle<br>
   Produced in collaboration with the Kon-Tiki Museum
 order-id: Thor Heyerdahl
 ---
