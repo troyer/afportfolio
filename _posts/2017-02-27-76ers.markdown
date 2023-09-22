@@ -10,7 +10,7 @@ tags:
 - print
 - patches
 - sport branding
-cover-image: "/uploads/Alizee-Freudenthal-76ers-Since1776-Flag-Cover.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-76ers-Since1776-Flag.jpg"
 small-text: Basketball Team Campaign
 description: "Visual identity for the 2015 Philadelphia \n<br>basketball team’s campaign,
   \"Since 1776\".\n<br>Agency: [Mother Design](http://www.motherdesign.com).\n<br>Photography:
