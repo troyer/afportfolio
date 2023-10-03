@@ -1,5 +1,5 @@
 ---
-title: Alizée Freudenthal Portfolio
+title: Studio Freudenthal
 timezone: UTC
 collections:
   posts:
@@ -24,7 +24,7 @@ defaults:
     type: pages
   values:
     layout: page
-author: Alizée Freudenthal
+author: Studio Freudenthal
 sass:
   sass_dir: assets/css
 permalink: pretty
