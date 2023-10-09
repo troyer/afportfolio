@@ -11,7 +11,7 @@ layout: page
 # Under the leadership of Alizée Freudenthal, who launched her career in New York City, the studio is now based in Paris and collaborates on projects spanning both European and US markets. 
 
 # Inherently collaborative, Alizée and her teams develop tailor-made aesthetics that precisely mirror clients’ market aspirations and consumer needs.
-
+<br>
 #----------
 
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey; magnifique France.
