@@ -3,8 +3,8 @@ title: Le Rhodia
 date: 2023-09-13 17:17:00 Z
 cover-image: "/uploads/LeRhodia-StudioFreudenthal-COVER4.jpg"
 small-text: Musée Bourdelle's restaurant in Paris.
-description: "Visual identity for Le Rhodia, a new museum restaurant in Paris.<br>
-  \nInteriors, custom furnitures : [SAME architectes](http://www.same-architectes.com/).<br>\nPhotography
+description: "Visual identity for Le Rhodia, a new museum restaurant in Paris.\n<br>
+  \nInteriors, custom furnitures : [SAME architectes](http://www.same-architectes.com/).\n<br>\nPhotography
   : [11h45](https://www.11h45.com/)"
 order-id: Le Rhodia
 ---
