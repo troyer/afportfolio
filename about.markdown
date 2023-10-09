@@ -5,7 +5,8 @@ layout: page
 ---
 
 # [`alizee@alizeefreudenthal.com`](mailto:alizee@alizeefreudenthal.com)
-
+<br>
+<br>
 # Studio Freudenthal crafts enduring visual identities across diverse fields, with a special emphasis on hospitality, culture, and brands or companies characterized by strong values and idiosyncrasies. 
 
 # Under the leadership of Alizée Freudenthal, who launched her career in New York City, the studio is now based in Paris and collaborates on projects spanning both European and US markets. 
@@ -13,7 +14,8 @@ layout: page
 # Inherently collaborative, Alizée and her teams develop tailor-made aesthetics that precisely mirror clients’ market aspirations and consumer needs.
 <br>
 <br>
-----------
+<br>
+............................
 
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey; magnifique France.
 
