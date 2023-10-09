@@ -11,7 +11,9 @@ layout: page
 
 # Under the leadership of Alizée Freudenthal, who launched her career in New York City, the studio is now based in Paris and collaborates on projects spanning both European and US markets. 
 
-# Inherently collaborative, Alizée and her teams develop tailor-made aesthetics that precisely mirror clients’ market aspirations and consumer needs.
+# Inherently collaborative, Alizée and her teams develop tailor-made aesthetics and brand voices, that precisely mirror clients’ market aspirations and consumer needs.
+
+# Our expertise and skills include naming, visual identity (logo design, typography, color palette etc.), website design and development, collateral concepting and design, signage, digital tools, copywriting, editorial guidelines, packaging development, video direction and production. When project scale demands, we draw upon an international community of renowned creatives, partnering with writers, photographers, illustrators, 3D geniuses, digital experts and production specialists.
 <br>
 <br>
 <br>
