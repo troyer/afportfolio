@@ -15,7 +15,7 @@ tags:
 - hotel nyc
 - boutique hotel
 - typography
-cover-image: "/uploads/Alizee-Freudenthal-Marlton-Hotel-Cover1.jpg"
+cover-image: "/uploads/Alizee-Freudenthal-Marlton-Hotel-09.jpg"
 small-text: Hotel Branding
 description: "Design direction and global visual identity for the former\n<br>house
   of the Beat Generation in Greenwich Village,\n<br>where Jack Kerouac penned \"On
