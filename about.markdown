@@ -13,7 +13,7 @@ layout: page
 # Inherently collaborative, Alizée and her teams develop tailor-made aesthetics that precisely mirror clients’ market aspirations and consumer needs.
 #
 #----------
-# *Words by [Kingston Trinder](http://www.narwhalsguffaw.com/).*
+# *Words by [Kingston Trinder](https://kingstontrinder.com/).*
 
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey; magnifique France.
 
