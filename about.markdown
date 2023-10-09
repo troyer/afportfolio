@@ -16,7 +16,8 @@ layout: page
 <br>
 <br>
 ............................
-
+# Alizée Freudenthal by [Kingston Trinder](https://kingstontrinder.com/).*
+<br>
 # Nourished by Parisian dawn, and paleontologist’s dream, Alizée Freudenthal is an awarded-designer from that faraway land of croissant and honey; magnifique France.
 
 # At the tenderest age of twenty, young Alizée boarded a railway train bound for nearby Belgium and Brussels, to an education in Visual Communication and Graphic Design. And a lovely paper declaration that forever reads, Alizée Freudenthal, Master Of Arts.
@@ -29,5 +30,4 @@ layout: page
 
 # Despite her most gallant efforts, Alizée’s Parisian tongue cannot quite yet stay in her pocket. For she still suffers over pronouncing that most indispensable of English words; the skewer.
 
-# *Words by [Kingston Trinder](https://kingstontrinder.com/).*
 
