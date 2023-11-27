@@ -4,7 +4,7 @@ date: 2023-09-18 12:31:00 Z
 cover-image: "/uploads/StudioFreudenthal_@Bourdelle_logo_Paris%20Muse%CC%81es_%C2%A9Pierre%20Antoine.jpg"
 small-text: New logotype and visual identity for the Parisian museum
 description: |-
-  Case study in progress
+  Case study in progress <br>
   Photo enseigne : [Pierre Antoine](https://www.pierreantoine-photos.com/)
 order-id: Musee Bourdelle
 ---
