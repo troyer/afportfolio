@@ -4,7 +4,7 @@ date: 2016-09-19 20:00:00 Z
 layout: page
 ---
 
-# [`alizee@studiofreudenthal.com`](mailto:alizee@studiofreudenthal.com)# [`@studiofreudenthal.com`](https://www.instagram.com/studiofreudenthal/)
+# [`alizee@studiofreudenthal.com`](mailto:alizee@studiofreudenthal.com) [`@studiofreudenthal.com`](https://www.instagram.com/studiofreudenthal/)
 <br>
 
 # Studio Freudenthal crafts enduring visual identities across diverse fields, with a special emphasis on hospitality, culture, and brands or companies characterized by strong values and idiosyncrasies. 
