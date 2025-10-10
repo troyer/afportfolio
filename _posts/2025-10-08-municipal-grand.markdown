@@ -9,7 +9,7 @@ order-id: Municipal Grand
 ---
 
 A 44-room hotel in Savannah, Georgia, housed in a former 1960 bank that later served as a local municipal building. One can find our logo in the Forsyth Park fountain and some of our words in Flannery O’Connor’s writings. <br>
- <br>The project includes three food & beverage programs: Municipal Bar, The Sun Club, and The Hot Eye.
+The project includes three food & beverage programs: Municipal Bar, The Sun Club, and The Hot Eye.
  <br>
  <br>
 Deliverables: Naming, full visual identity, collateral and signage design, web design, print and signage production, brand voice, copywriting and editorial research. <br>
@@ -18,13 +18,11 @@ See [www.municipalgrand.com](http://municipalgrand.com)
  <br>
 Client: Midnight Auteur
  <br>
- <br>
 Collaborators : 
 Print production management : Tooth & Hand <br>
 Web development: Shrimpton <br> 
 Copywriting, editorial research : Monica Nelson <br>
 Room illustrations : Perrine Grosjean <br>
-<br> <br>
 Credits : <br>
 Photography: Kelly Calvillo <br>
  <br>
