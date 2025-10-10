@@ -24,4 +24,4 @@ Web development: Shrimpton <br>
 Copywriting, editorial research : Monica Nelson <br>
 Photo credits : Kelly Calvillo <br>
  <br>
-![Cover.png](/uploads/Cover.png)![1B.png](/uploads/1B.png)![1A.png](/uploads/1A.png)![6A.png](/uploads/6A.png)![6B.png](/uploads/6B.png)![4A.png](/uploads/4A.png)![4B.png](/uploads/4B.png)![2B.png](/uploads/2B.png)![2A.png](/uploads/2A.png)![3A.png](/uploads/3A.png)![3B.png](/uploads/3B.png)
+![Cover.png](/uploads/Cover.png)![6A.png](/uploads/6A.png)![4A.png](/uploads/4A.png)[FB0A396A-7B5B-4744-B4AD-871B6EFA934F2.JPG](/uploads/FB0A396A-7B5B-4744-B4AD-871B6EFA934F2.JPG)[DE87D563-3F39-4713-9BEF-CB44B63754942.JPG](/uploads/DE87D563-3F39-4713-9BEF-CB44B63754942.JPG)[120852EA-2ECD-4DDF-B7B1-87DA5AA55585.JPG](/uploads/120852EA-2ECD-4DDF-B7B1-87DA5AA55585.JPG)![3A.png](/uploads/3A.png)![3C714656-213B-43B0-BF60-AA2A2094EDBC2.jpg](/uploads/3C714656-213B-43B0-BF60-AA2A2094EDBC2.jpg)![3A.png](/uploads/3A.png)
