@@ -5,7 +5,7 @@ cover-image: "/uploads/Cover.png"
 small-text: |-
   Municipal Grand <br>
   Savannah
-order-id: 1
+order-id: Municipal Grand
 ---
 
 A 44-room hotel in Savannah, Georgia, housed in a former 1960 bank that later served as a local municipal building. One can find our logo in the Forsyth Park fountain and some of our words in Flannery O’Connor’s writings.
