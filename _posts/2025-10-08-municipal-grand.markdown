@@ -3,8 +3,8 @@ title: Municipal Grand
 date: 2025-10-08 16:56:00 Z
 cover-image: "/uploads/Cover.png"
 small-text: |-
-  Municipal Grand <br>
-  Savannah
+  A new hotel <br>
+  in Savannah
 order-id: Municipal Grand
 ---
 
