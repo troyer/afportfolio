@@ -12,7 +12,8 @@ A 44-room hotel in Savannah, Georgia, housed in a former 1960 bank that later se
  <br>The project includes three food & beverage programs: Municipal Bar, The Sun Club, and The Hot Eye.
  <br>
  <br>
-Deliverables: Naming, full visual identity, collateral and signage design, web design, print and signage production, brand voice, copywriting and editorial research.
+Deliverables: Naming, full visual identity, collateral and signage design, web design, print and signage production, brand voice, copywriting and editorial research. <br>
+See [www.municipalgrand.com](http://municipalgrand.com)
  <br>
  <br>
 Client: Midnight Auteur
