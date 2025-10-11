@@ -17,7 +17,7 @@ See [www.municipalgrand.com](http://municipalgrand.com)
 Client: Midnight Auteur
  <br>
 Collaborators :  <br>
-Print production management : Tooth & Hand <br>
+Print & signage production management : Tooth & Hand <br>
 Web development: Shrimpton <br> 
 Copywriting, editorial research : Monica Nelson <br>
 Photo credits : Kelly Calvillo <br>
