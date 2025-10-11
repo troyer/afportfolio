@@ -2,7 +2,7 @@
 title: Municipal Grand
 date: 2025-10-08 16:56:00 Z
 cover-image: "/uploads/Cover.png"
-small-text: A 44-room hotel in Savannah <br> with three food & beverage programs
+small-text: A new 44-room hotel in Savannah, Georgia
 order-id: Municipal Grand
 ---
 
