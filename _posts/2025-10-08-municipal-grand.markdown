@@ -11,7 +11,7 @@ The project includes three food & beverage programs: Municipal Bar, Sun Club, an
  <br>
  <br>
 Deliverables: Naming, full visual identity, collateral and signage design, web design, print and signage production, brand voice, copywriting and editorial research. <br>
-See [www.municipalgrand.com](http://municipalgrand.com)
+ <br>Visit [www.municipalgrand.com](http://municipalgrand.com)
  <br>
  <br>
 Client: Midnight Auteur
