@@ -1,6 +1,7 @@
 ---
 title: 'Colors Magazine #78'
 date: 2016-09-15 02:54:00 Z
+published: false
 tags:
 - editorial
 - magazine
